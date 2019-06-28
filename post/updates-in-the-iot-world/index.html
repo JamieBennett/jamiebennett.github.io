@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> Why software updates matter, especially in the world of IoT &middot; LinuxUK </title>
+
+  
+  <link rel="stylesheet" href="http://www.linuxuk.org/css/poole.css">
+  <link rel="stylesheet" href="http://www.linuxuk.org/css/syntax.css">
+  <link rel="stylesheet" href="http://www.linuxuk.org/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2301466-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+
+<div class="sidebar">
+	<div class="container sidebar">
+    <div class="sidebar-about">
+      <h1>LinuxUK</h1>
+      <p class="lead">
+      Adventures in Software Engineering, Running, Vegan cooking, futurism, and other randomness
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+    <a href="/">Home</a><br/>
+    <a href="/about">About</a><br/>
+    <a href="/writings">Writings</a><br/>
+    <a href="/post">Archive</a><br/> 
+    </ul>
+
+	<ul class="sidebar-social">
+      <li><a href="https://twitter.com/jamiebennett"><img src="/media/twitter.png" /></a></li>
+      <li><a href="https://uk.linkedin.com/in/jamiebennett"><img src="/media/linkedin.png" /></a></li>
+      <li><a href="https://github.com/jamiedbennett"><img src="/media/github.png" /></a></li>
+  	</ul>
+
+    <p class="sidebar-footnote">
+    &copy; 2018, Jamie Bennett. All rights reserved. <br />Want the <a href="" type="application/rss+xml">RSS feed</a>?
+    </p>
+  </div>
+</div>
+
+
+<div class="content container">
+<div class="post">
+  <h1>Why software updates matter, especially in the world of IoT</h1>
+  <span class="post-date">Wed, May 10, 2017</span>
+      
+
+<p><div align="center"><img src="/media/snappy.png"><br /></div></p>
+
+<h2 id="why-update">Why update?</h2>
+
+<p>We all know what software updates are, we see them all the time on our phones, tablets, desktops and servers. They appear as pop-ups, in the message of the day (motd), and even have dedicated applications extolling their necessity, and all for good reason. Having out of date software often means, at best a degraded user experience, at worst a security hole exploitable by hackers. When you consider that analysts such as <a href="http://www.gartner.com/newsroom/id/3598917" title="Gartner connected things prediction">Gartner</a> predict that the IoT will connect over 20 billion devices by 2020 the necessity for a clean and crisp update mechanism becomes paramount to any device. Exploitable devices <a href="https://thenextweb.com/gadgets/2017/01/31/netgear-vulnerability-router-bypass/#.tnw_OmpwXH06" title="Netgear exploit">hit</a> <a href="https://www.wired.com/2017/03/security-news-week-iot-teddy-bear-leaked-millions-parent-child-voice-recordings/" title="Teddy bear exploit">the</a> <a href="http://www.techradar.com/news/dangerous-backdoor-exploit-found-on-popular-iot-devices" title="DblTek exploit">headlines</a> <a href="http://www.hometoys.com/article/2017/03/cia-exploits-of-iot-devices-what-lessons-can-we-learn-/36301" title="CIA backdoors">often</a> and most of the time this is due to a weakness that was not plugged fast enough or even not at all. Having connected devices means that with the right update mechanism, attacks like these should be mitigated through a fast and ubiquitous response. Of course updates are only one such security measure device makers have to take but it is one that can potentially prove to be the most future-proof.</p>
+
+<p>The IoT implies a highly-connected network of &ldquo;Things&rdquo; which opens up the possibility to push security patches, fix bugs, and deploy new features remotely. Devices with static software do not have this ability and are stuck with whatever software the manufacturer thought was secure at the time. It&rsquo;s easy to see which is the correct approach but getting software updates right can be a challenge. Updates should be secure, robust, atomic with rollback support, they should be seamless to the user and automatic. This is why every <a href="https://www.ubuntu.com/core" title="Ubuntu Core">Ubuntu Core</a> system bakes update functionality in from the start.</p>
+
+<h2 id="how-ubuntu-core-keeps-you-safe">How Ubuntu Core keeps you safe</h2>
+
+<p>All software in an Ubuntu Core system is delivered as a <a href="https://github.com/snapcore/snapd/wiki/Snap-format" title="Snap Format">snap</a>, a self-contained, digitally-signed squashfs file carrying content and metadata mounted read-only on installation. This format is used throughout the system, including Ubuntu Core itself, and enables atomic refreshes of software across the whole stack. A small daemon runs that communicates with a &lsquo;software store&rsquo;, checking regularly for updates, automatically. If an update is found the daemon will download it, try to apply it, and if anything fails &lsquo;rollback&rsquo; to the previous known-good version. In this way you never have a bricked device or broken software. On the store side software is updated to fix issues, security holes, and provide functionality by developers who don&rsquo;t have to worry about the software deployment story or if their users have downloaded the latest essential release, this is all taken care of, effectively decoupling software development from software deployment.</p>
+
+<p>Lets think about this for a second. A developer who finds a security issue in their software can push a fix and have every connected device out there get that fix <em>automatically</em>. No old insecure versions, no out-of-date software. Software delivery is secure, robust, atomic, and seamless, just like it should be.
+<img src="/media/software-deployment-uc.png"><br /></p>
+
+<h2 id="updates-are-systematic-not-an-afterthought">Updates are systematic, not an afterthought</h2>
+
+<p>Several components need to work together for a complelling solution. There is more to a robust update mechanism than just a software store, or an agent, or some other over-the-air (OTA) system that is bolted on as an afterthough, every piece needs to work in synergy. The store should manage all deployable software and understand what devices need when they ask for updates. It should be able to handle delta downloads to conserve device bandwidth but also cater for delta uploads, reducing bandwidth for the developer too when they push new software to the store. It should be secure and transactional. Similarly, anything device-side should handle software rollbacks, system healthchecks, and security, be able to communicate with multiple stores and be underpinned by an authorisation mechanism that provides trust throughout the system. Using Ubuntu Core gives you all this and more.</p>
+
+<p>If you are a device maker, software developer or just interested in the future of IoT software and devices I would encourage you to check out <a href="https://www.ubuntu.com/core" title="Ubuntu Core">Ubuntu Core</a> and <a href="http://www.snapcraft.io" title="Snapcraft.io">Snapcraft.io</a> for further information.</p>
+
+	  <ul id="tags">
+		<h3>Tags: </h3>
+	    
+	      [<a href="/tags/iot">IoT</a>]
+	    
+	      [<a href="/tags/ubuntu-core">Ubuntu Core</a>]
+	    
+	      [<a href="/tags/security">Security</a>]
+	    
+	      [<a href="/tags/ubuntu">Ubuntu</a>]
+	    
+	      [<a href="/tags/snaps">Snaps</a>]
+	    
+	  </ul>
+</div>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+         
+        var disqus_shortname = 'linuxukorg'; 
+
+         
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+  </body>
+</html>

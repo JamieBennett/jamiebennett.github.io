@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marathon on LinuxUK</title>
+    <link>http://www.linuxuk.org/tags/marathon/</link>
+    <description>Recent content in Marathon on LinuxUK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jamie Bennett</copyright>
+    <lastBuildDate>Sun, 21 Feb 2016 17:58:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.linuxuk.org/tags/marathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Running in Nepal</title>
+      <link>http://www.linuxuk.org/post/running_in_nepal/</link>
+      <pubDate>Sun, 21 Feb 2016 17:58:58 +0000</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/running_in_nepal/</guid>
+      <description>Nepal is such a wonderful place. Steeped in history and culture with some of the most breath-taking sights to be seen, Nepal is the home to Buddhism, the Himalayas, and of course the mighty Mt Everest. Despite all this wealth, the country and the people themselves face a lot of challenges. Economically Nepal is considered a third-world country with many people in utter poverty. To compound this hardship, Nepal has also experienced terrible earthquakes that have left many dead and even more without basic needs such as accommodation, access to food and clean water, and education.</description>
+    </item>
+    
+  </channel>
+</rss>

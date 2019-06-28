@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snapd on LinuxUK</title>
+    <link>http://www.linuxuk.org/tags/snapd/</link>
+    <description>Recent content in snapd on LinuxUK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jamie Bennett</copyright>
+    <lastBuildDate>Wed, 01 Jun 2016 09:40:26 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.linuxuk.org/tags/snapd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributing to the snapd project</title>
+      <link>http://www.linuxuk.org/post/contributing_to_snapd/</link>
+      <pubDate>Wed, 01 Jun 2016 09:40:26 +0100</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/contributing_to_snapd/</guid>
+      <description>There is a lot of buzz around snaps, the new packaging format created by Canonical to enable secure, transactional, and robust application updates, and rightly so. This new method of distributing applications is revolutionizing not only software on IoT devices, but on the desktop, server, and beyond. The software that actually runs the snap applications is called snapd. Hosted on GitHub, snapd uses the Go language and is actively developed by a core set of developers, but, like most projects at Canonical, we actively encourage as much community participation as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> Monitoring a Greenhouse with Ubuntu &middot; LinuxUK </title>
+
+  
+  <link rel="stylesheet" href="http://www.linuxuk.org/css/poole.css">
+  <link rel="stylesheet" href="http://www.linuxuk.org/css/syntax.css">
+  <link rel="stylesheet" href="http://www.linuxuk.org/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2301466-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+
+<div class="sidebar">
+	<div class="container sidebar">
+    <div class="sidebar-about">
+      <h1>LinuxUK</h1>
+      <p class="lead">
+      Adventures in Software Engineering, Running, Vegan cooking, futurism, and other randomness
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+    <a href="/">Home</a><br/>
+    <a href="/about">About</a><br/>
+    <a href="/writings">Writings</a><br/>
+    <a href="/post">Archive</a><br/> 
+    </ul>
+
+	<ul class="sidebar-social">
+      <li><a href="https://twitter.com/jamiebennett"><img src="/media/twitter.png" /></a></li>
+      <li><a href="https://uk.linkedin.com/in/jamiebennett"><img src="/media/linkedin.png" /></a></li>
+      <li><a href="https://github.com/jamiedbennett"><img src="/media/github.png" /></a></li>
+  	</ul>
+
+    <p class="sidebar-footnote">
+    &copy; 2018, Jamie Bennett. All rights reserved. <br />Want the <a href="" type="application/rss+xml">RSS feed</a>?
+    </p>
+  </div>
+</div>
+
+
+<div class="content container">
+<div class="post">
+  <h1>Monitoring a Greenhouse with Ubuntu</h1>
+  <span class="post-date">Wed, May 16, 2018</span>
+      
+
+<div align="center"><img alt="credit: Creative Commons - ShareAlike 3.0" src="/media/strawberries.jpg"></div>
+
+<p>There are a wide range of solutions on the market today to help the avid gardener with their plants, some are <a href="https://www.amazon.co.uk/MoonCity-Moisture-Monitor-Humidity-Hygrometer/dp/B06Y3DZPZX/ref=sr_1_8?ie=UTF8&amp;qid=1522249101&amp;sr=8-8&amp;keywords=plant+sensor">low tech</a> battery-less meters designed to give you a simple view of how your plant is doing, others are much more <a href="https://www.growtronix.com/">high-tech</a> (and expensive). Two of the most important variables to monitor in a greenhouse are temperature and humidity, too hot and plants start to scorch and wilt, too cold and they can be damaged, and humidity is important for a whole host of plants you may find in a greenhouse.</p>
+
+<p>At home I have a modest greenhouse, at 3 metres by 1.8 meters it has just enough room to start off delicate plants early and keep the family supplied throughout the season with chillies, tomatoes, cucumbers, strawberries, herbs, and even lemons. Although I can just barely make out the digital temperature gauge hanging on the inside of the greenhouse from my office window I thought is would be much better to have a more high-tech monitoring solution. After a bit of research I came across the Xiaomi Temperature and Humidity sensor which can be bought for as little as £9 from several Chinese online retailers. The sensor itself is a small, ZigBee-based device powered by a CR2032 button cell battery and capable of detecting temperatures from -20 to 60 celsius as well as humidity, perfect for this use case. The sensor does also need the Xiaomi gateway to work but I already had one of those. Another constraint is that any device you use to read the data needs to be within ZigBee range which, admittedly is 10s of meters, not a problem here.</p>
+
+<p>Xiaomi produce an Android and iOS application that you can use to read the sensor data but after the initial (required) setup I wanted to use the data elsewhere.</p>
+
+<h2 id="necessary-hardware-and-software">Necessary Hardware and Software</h2>
+
+<div align="center"><img alt="credit: Creative Commons - ShareAlike 3.0" src="/media/temp-sensor.jpg"></div>
+
+<p>The initial idea was to put together a small, dedicated, low-powered device so the obvious choice was a Raspberry Pi3. The Ubuntu MATE project produce an <a href="excellent version of Ubuntu tailored for the Pi3">https://ubuntu-mate.org/raspberry-pi/</a> so a short install later followed by enabling ssh access <code>sudo systemctl enable ssh</code> I had a fresh Ubuntu environment to get started.</p>
+
+<p>In addition to Ubuntu MATE I am using <a href="http://mqtt.org/">MQTT</a> in the form of <a href="https://mosquitto.org/">Mosquitto</a> to send messages around the network, the mihome Python bindings from <a href="https://github.com/jon1012/mihome">jon1012 on GitHub</a>, <a href="https://www.influxdata.com/">InfluxDB</a> to store the data, and <a href="https://grafana.com/">Grafana</a> to visualise it. Installing Mosquitto can be done via the snap (<code>sudo snap install mosquitto</code>) or from the .deb. Setting up InfluxDB and Grafana is a little more involved but both have great step-by-step instructions on their respective websites.</p>
+
+<p>Mosquitto needs to be running as well as the mihome software that sniffs the network for ZigBee packets. With both of these in place it&rsquo;s just a matter of capturing the bits we are interested in and putting them in an InfluxDB database (warning, I&rsquo;m no Python expert!).</p>
+
+<pre><code>import paho.mqtt.client as mqtt
+import json
+import sqlite3
+from sqlite3 import Error
+from influxdb import InfluxDBClient
+import time
+import datetime
+
+broker_address=&quot;192.168.0.100&quot;
+
+topics = [&quot;xiaomi/sensor_ht/158d0001ad37b7/temperature&quot;, &quot;xiaomi/sensor_ht/158d0001ad37b7/humidity&quot;]
+
+def on_message(client, userdata, message):
+    msg = message.payload.decode(&quot;utf-8&quot;)
+    prefix, device, sid, prop = message.topic.split(&quot;/&quot;)
+
+    rectime = datetime.datetime.utcnow()
+
+    topic = prop + &quot;_&quot; + sid
+
+    isfloatval = False
+
+    # See if the message is a temperature or humidity data entry (float)
+    try:
+        val = float(msg)
+        val = val / 100
+        isfloatval = True
+
+    except:
+        print (&quot;Not a temperature or humidity value&quot;)
+
+    if isfloatval:
+        json_body = [
+            {
+                &quot;measurement&quot;: topic,
+                &quot;time&quot;: rectime,
+                &quot;fields&quot;: {
+                    &quot;value&quot;: val
+                }
+            }
+        ]
+        dbclient.write_points(json_body)
+
+# Set up mqtt client
+client = mqtt.Client(&quot;sensors&quot;)
+client.on_message=on_message
+client.connect(broker_address)
+client.loop_start()
+
+# Set up InfluxDB client
+dbclient = InfluxDBClient('192.168.0.100', 8086, 'root', 'root', 'sensordata')
+
+# Subscribe to topics
+for t in topics:
+    print(&quot;Subscribing to topic &quot; + t)
+    client.subscribe(t)
+
+# Loop and wait until interrupted
+try:
+    while True:
+        pass
+except KeyboardInterrupt:
+    print(&quot;interrupted by keyboard&quot;)
+
+client.loop_stop()
+</code></pre>
+
+<p>The code is pretty simple. Set up the MQTT and InfluxDB clients which are both hosted on the Raspberry Pi at 192.168.0.100 and loop looking for MQTT messages that are listed in the topics array. In the code above we only have one sensor (but two topics) and the ID of the sensor was found by looking at the output of the running mihome software.</p>
+
+<h2 id="visualisations">Visualisations</h2>
+
+<div align="center"><img alt="credit: Creative Commons - ShareAlike 3.0" src="/media/grafana-greenhouse-data.png"></div>
+
+<p>Once you have Grafana set up and connected to the InfluxDB database it is simple to add charts visualising the data. I opted for two charts, one for temperature and another for humidity and as you can see, here in the south of England it got pretty hot in there at the start of May, too hot in fact. I have already made modifications to the greenhouse to try cool things down when it becomes too hot but some manual intervention is still needed on the warmest of days.</p>
+
+<p>To finish it all off you can use <a href="https://tutorials.ubuntu.com/tutorial/graphical-snaps">Mir Kiosk</a>, a small, light-weight graphical server and a small LCD display to provide an always on view of the data.</p>
+
+<p>There are lots of things that can be done with the Xiaomi range of sensors, as of writing I have 9 temperature sensors around the home, smart switches on every door to monitor open/close events, and plant sensors in several indoor plants to monitor fertility, moisture, temperature, and other conditions necessary to keep them all healthy. I&rsquo;ll expand on this further in a future blog post.</p>
+
+	  <ul id="tags">
+		<h3>Tags: </h3>
+	    
+	      [<a href="/tags/xiaomi">xiaomi</a>]
+	    
+	      [<a href="/tags/gardening">gardening</a>]
+	    
+	      [<a href="/tags/plants">plants</a>]
+	    
+	      [<a href="/tags/ubuntu">ubuntu</a>]
+	    
+	      [<a href="/tags/snaps">snaps</a>]
+	    
+	      [<a href="/tags/raspberrypi">raspberrypi</a>]
+	    
+	  </ul>
+</div>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+         
+        var disqus_shortname = 'linuxukorg'; 
+
+         
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+  </body>
+</html>

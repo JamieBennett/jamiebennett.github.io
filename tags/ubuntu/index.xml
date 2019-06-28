@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on LinuxUK</title>
+    <link>http://www.linuxuk.org/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on LinuxUK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jamie Bennett</copyright>
+    <lastBuildDate>Wed, 17 Oct 2018 10:37:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.linuxuk.org/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deprecating software is hard; why the move to ROS 2 is causing heated debate</title>
+      <link>http://www.linuxuk.org/post/deprecating_software_is_hard/</link>
+      <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/deprecating_software_is_hard/</guid>
+      <description>Software never stays the same Inevitably, all software is destined to die. Whether that is through becoming end of life (EOL), obsolete, or unused, or through the code being rewritten and replaced, software is not static and nor should it be. Bug fixes, security updates, and new functionality ensure that code churn, or the number of lines being modified, keeps developers busy and projects healthy. But, what happens when software completely changes?</description>
+    </item>
+    
+    <item>
+      <title>Monitoring a Greenhouse with Ubuntu</title>
+      <link>http://www.linuxuk.org/post/monitoring-plants-with-ubuntu/</link>
+      <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/monitoring-plants-with-ubuntu/</guid>
+      <description>There are a wide range of solutions on the market today to help the avid gardener with their plants, some are low tech battery-less meters designed to give you a simple view of how your plant is doing, others are much more high-tech (and expensive). Two of the most important variables to monitor in a greenhouse are temperature and humidity, too hot and plants start to scorch and wilt, too cold and they can be damaged, and humidity is important for a whole host of plants you may find in a greenhouse.</description>
+    </item>
+    
+    <item>
+      <title>Why software updates matter, especially in the world of IoT</title>
+      <link>http://www.linuxuk.org/post/updates-in-the-iot-world/</link>
+      <pubDate>Wed, 10 May 2017 09:29:04 +0100</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/updates-in-the-iot-world/</guid>
+      <description>Why update? We all know what software updates are, we see them all the time on our phones, tablets, desktops and servers. They appear as pop-ups, in the message of the day (motd), and even have dedicated applications extolling their necessity, and all for good reason. Having out of date software often means, at best a degraded user experience, at worst a security hole exploitable by hackers. When you consider that analysts such as Gartner predict that the IoT will connect over 20 billion devices by 2020 the necessity for a clean and crisp update mechanism becomes paramount to any device.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Core 16, a real landmark for IoT Software</title>
+      <link>http://www.linuxuk.org/post/ubuntu-core-16/</link>
+      <pubDate>Wed, 09 Nov 2016 19:38:40 +0000</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/ubuntu-core-16/</guid>
+      <description>Internet of Things (IoT) devices have come a long way over the last couple of decades. In 1996 I remember being in complete awe at turning on a light from my Pentium II-based desktop computer using X10 and being equally frustrated when I switched on the microwave and the same light turned off. In equal parts it marveled and disappointed and to top it off it wasn&amp;rsquo;t particularly cheap. Fast-forward a couple of decades and IoT is the new buzz-word, previously know as Ubiquitous Computing, Pervasive Computing, and a whole host of other buzz words but in short what it really means is our &amp;lsquo;things&amp;rsquo;, our devices, our environments, are all getting smarter.</description>
+    </item>
+    
+    <item>
+      <title>A Change of Scenery</title>
+      <link>http://www.linuxuk.org/post/a-change-of-scenery/</link>
+      <pubDate>Wed, 06 Apr 2016 20:59:00 +0100</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/a-change-of-scenery/</guid>
+      <description>A few weeks I joined Canonical and for the eagle-eyed you&amp;rsquo;d realise this is actually for the second time. Previously at Canonical I spent my days with the Mobile Team, realising the goal of a good Linux on ARM experience which eventually culminated in the foundation of Linaro. This time I am equally excited about another formative stage of technology, that of IoT and the possibilities of interoperable and extensible devices running a standard Linux operating system.</description>
+    </item>
+    
+    <item>
+      <title>Fujitsu SnapScan 1300i with Ubuntu</title>
+      <link>http://www.linuxuk.org/post/scansnap1300i_ubuntu/</link>
+      <pubDate>Wed, 30 Dec 2015 21:35:27 +0000</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/scansnap1300i_ubuntu/</guid>
+      <description>I&amp;rsquo;ve been using the Fujitsu ScanSnap 1300i on Mac OS X for some time now in the pursuit of a paperless life but now that I am using Ubuntu more and more it was apparent that I was going to have to get this little scanner working on Linux. Searching the internet threw up a few interesting articles but nothing worked 100%. In the end the steps I used under Ubuntu 15.</description>
+    </item>
+    
+    <item>
+      <title>Running Ubuntu Snappy Core Virtualised on Mac OSX</title>
+      <link>http://www.linuxuk.org/post/running_ubuntu_snappy_on_osx_virtualbox/</link>
+      <pubDate>Mon, 09 Nov 2015 14:09:32 +0000</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/running_ubuntu_snappy_on_osx_virtualbox/</guid>
+      <description>Although most of the documentation out there today shows you how to run Ubuntu Snappy Core on an Ubuntu desktop, it is also pretty simple to do this on Mac OSX. In short:
+Download the Ubuntu Snappy Core image from:
+http://releases.ubuntu.com/15.04/  You will need the amd64 version of Snappy.
+Unarchive the file:
+unxz ubuntu-15.04-snappy-amd64-generic.img.xz  Then convert the image into something that VirtualBox can run:
+qemu-img convert -f raw -O vmdk ubuntu-15.</description>
+    </item>
+    
+    <item>
+      <title>Installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac</title>
+      <link>http://www.linuxuk.org/post/ubuntu-snappy-with-mac/</link>
+      <pubDate>Fri, 06 Nov 2015 12:23:30 +0000</pubDate>
+      
+      <guid>http://www.linuxuk.org/post/ubuntu-snappy-with-mac/</guid>
+      <description>This is a short guide to installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac. It is pretty straight-forward but there are a couple of areas where you can get caught out.
+First, download the Ubuntu Snappy image from:
+ http://people.canonical.com/%7Eplatform/snappy/raspberrypi2/  As of writing the latest release was:
+ ubuntu-15.04-snappy-armhf-rpi2.img.xz  Insert your SD card if you haven&amp;rsquo;t done so already and use diskutil to find it.</description>
+    </item>
+    
+  </channel>
+</rss>
