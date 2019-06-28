@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on LinuxUK</title>
-    <link>http://www.linuxuk.org/tags/security/</link>
+    <link>/tags/security/</link>
     <description>Recent content in Security on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 10 May 2017 09:29:04 +0100</lastBuildDate>
     
-	<atom:link href="http://www.linuxuk.org/tags/security/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why software updates matter, especially in the world of IoT</title>
-      <link>http://www.linuxuk.org/post/updates-in-the-iot-world/</link>
+      <link>/post/updates-in-the-iot-world/</link>
       <pubDate>Wed, 10 May 2017 09:29:04 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/updates-in-the-iot-world/</guid>
+      <guid>/post/updates-in-the-iot-world/</guid>
       <description>Why update? We all know what software updates are, we see them all the time on our phones, tablets, desktops and servers. They appear as pop-ups, in the message of the day (motd), and even have dedicated applications extolling their necessity, and all for good reason. Having out of date software often means, at best a degraded user experience, at worst a security hole exploitable by hackers. When you consider that analysts such as Gartner predict that the IoT will connect over 20 billion devices by 2020 the necessity for a clean and crisp update mechanism becomes paramount to any device.</description>
     </item>
     
     <item>
       <title>Trusted Execution Environments in Android</title>
-      <link>http://www.linuxuk.org/post/trusted-execution-enviroment/</link>
+      <link>/post/trusted-execution-enviroment/</link>
       <pubDate>Sun, 15 Mar 2015 19:56:29 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/trusted-execution-enviroment/</guid>
+      <guid>/post/trusted-execution-enviroment/</guid>
       <description>Continuing on from my post about TrustZone it seems that there is a lot of interest in hardware-backed security for Android and what you can do with it. One of the most interesting things that a hardware-isolated area can do for devices, whether that be a dedicated co-processor or technology such as TrustZone, is to provide a trusted enviroment dedicated to protecting your most valuable assets and the operations that are performed on them.</description>
     </item>
     
     <item>
       <title>TrustZone For Android Mobile Security</title>
-      <link>http://www.linuxuk.org/post/trustzone-for-mobile-security/</link>
+      <link>/post/trustzone-for-mobile-security/</link>
       <pubDate>Sun, 22 Feb 2015 17:13:52 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/trustzone-for-mobile-security/</guid>
+      <guid>/post/trustzone-for-mobile-security/</guid>
       <description>Recently I was asked to provide a quick, high-level introduction to TrustZone and how it could potentially improve the security on Android platforms. Any response to this is tricky: TrustZone is just a mechanism built in to a platform that if unused can do very little for device security but when utilised to its fullest, can create a totally seperate environment dedicated to protecting your most important secrets. But first a bit of background.</description>
     </item>
     

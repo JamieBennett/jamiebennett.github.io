@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iWatch on LinuxUK</title>
-    <link>http://www.linuxuk.org/tags/iwatch/</link>
+    <link>/tags/iwatch/</link>
     <description>Recent content in iWatch on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 19 Aug 2015 19:41:08 +0100</lastBuildDate>
     
-	<atom:link href="http://www.linuxuk.org/tags/iwatch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/iwatch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life with Apple&#39;s iWatch</title>
-      <link>http://www.linuxuk.org/post/life-with-apples-iwatch/</link>
+      <link>/post/life-with-apples-iwatch/</link>
       <pubDate>Wed, 19 Aug 2015 19:41:08 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/life-with-apples-iwatch/</guid>
+      <guid>/post/life-with-apples-iwatch/</guid>
       <description>I confess, I’m a bit of a gadget hound. I own four different smart watches all with different OSs:
  Pebble with PebbleOS Samsung Gear with Tizen Motorola 360 with Android Wear and now Apple iWatch with WatchOS  When I first got the Pebble (Kickstarter model) I was instantly impressed. It was a device that lasted days, gave me notifications at a glance, and allowed me keep my phone in my pocket unless it was really needed.</description>
     </item>

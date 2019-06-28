@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rasberry Pi2 on LinuxUK</title>
-    <link>http://www.linuxuk.org/tags/rasberry-pi2/</link>
+    <link>/tags/rasberry-pi2/</link>
     <description>Recent content in Rasberry Pi2 on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Fri, 06 Nov 2015 12:23:30 +0000</lastBuildDate>
     
-	<atom:link href="http://www.linuxuk.org/tags/rasberry-pi2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/rasberry-pi2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac</title>
-      <link>http://www.linuxuk.org/post/ubuntu-snappy-with-mac/</link>
+      <link>/post/ubuntu-snappy-with-mac/</link>
       <pubDate>Fri, 06 Nov 2015 12:23:30 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/ubuntu-snappy-with-mac/</guid>
+      <guid>/post/ubuntu-snappy-with-mac/</guid>
       <description>This is a short guide to installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac. It is pretty straight-forward but there are a couple of areas where you can get caught out.
 First, download the Ubuntu Snappy image from:
  http://people.canonical.com/%7Eplatform/snappy/raspberrypi2/  As of writing the latest release was:

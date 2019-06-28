@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on LinuxUK</title>
-    <link>http://www.linuxuk.org/tags/writing/</link>
+    <link>/tags/writing/</link>
     <description>Recent content in Writing on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 18 Feb 2015 10:18:26 +0000</lastBuildDate>
     
-	<atom:link href="http://www.linuxuk.org/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting back into blogging</title>
-      <link>http://www.linuxuk.org/post/more-blogging/</link>
+      <link>/post/more-blogging/</link>
       <pubDate>Wed, 18 Feb 2015 10:18:26 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/more-blogging/</guid>
+      <guid>/post/more-blogging/</guid>
       <description>Its been a while, in fact it has been around a year since I updated this site (to be fair I did write a few posts on another blog during that period &amp;hellip; excuses, excuses) which I attribute to a increasingly busy schedule but more to a lack of enthusiasm. So, in an attempt to get back into this blogging lark I thought it would be a good opportunity to redesign the site with Hugo, a static, but more importantly Markdown-based web engine, and put up a few articles on something dear to my heart, Software Engineering.</description>
     </item>
     
     <item>
       <title>Writings</title>
-      <link>http://www.linuxuk.org/writings/</link>
+      <link>/writings/</link>
       <pubDate>Mon, 09 Feb 2015 15:58:14 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/writings/</guid>
+      <guid>/writings/</guid>
       <description>In addition to this website, I often write for other online and offline publications, some of which can be found below.
  Sustainability Journal: Heathcare in the Smart Home: A study of past, present, and future Info Security: Securing Against Developer Pressure Information Security Buzz: IoT Code of Conduct IT Pro Portal: New business models on their way for IoT hardware Electronics Weekly: New business models on IoT hardware, by software Tech Radar: How 5G will enable the next generation of IoT deployments New Electronics: Industry 4.</description>
     </item>

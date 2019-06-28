@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on LinuxUK</title>
-    <link>http://www.linuxuk.org/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 17 Oct 2018 10:37:08 +0100</lastBuildDate>
     
-	<atom:link href="http://www.linuxuk.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deprecating software is hard; why the move to ROS 2 is causing heated debate</title>
-      <link>http://www.linuxuk.org/post/deprecating_software_is_hard/</link>
+      <link>/post/deprecating_software_is_hard/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/deprecating_software_is_hard/</guid>
+      <guid>/post/deprecating_software_is_hard/</guid>
       <description>Software never stays the same Inevitably, all software is destined to die. Whether that is through becoming end of life (EOL), obsolete, or unused, or through the code being rewritten and replaced, software is not static and nor should it be. Bug fixes, security updates, and new functionality ensure that code churn, or the number of lines being modified, keeps developers busy and projects healthy. But, what happens when software completely changes?</description>
     </item>
     
     <item>
       <title>Monitoring a Greenhouse with Ubuntu</title>
-      <link>http://www.linuxuk.org/post/monitoring-plants-with-ubuntu/</link>
+      <link>/post/monitoring-plants-with-ubuntu/</link>
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/monitoring-plants-with-ubuntu/</guid>
+      <guid>/post/monitoring-plants-with-ubuntu/</guid>
       <description>There are a wide range of solutions on the market today to help the avid gardener with their plants, some are low tech battery-less meters designed to give you a simple view of how your plant is doing, others are much more high-tech (and expensive). Two of the most important variables to monitor in a greenhouse are temperature and humidity, too hot and plants start to scorch and wilt, too cold and they can be damaged, and humidity is important for a whole host of plants you may find in a greenhouse.</description>
     </item>
     
     <item>
       <title>Using Snaps on Raspbian</title>
-      <link>http://www.linuxuk.org/post/snaps_on_raspbian/</link>
+      <link>/post/snaps_on_raspbian/</link>
       <pubDate>Fri, 13 Apr 2018 15:47:22 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/snaps_on_raspbian/</guid>
+      <guid>/post/snaps_on_raspbian/</guid>
       <description>Who isn&amp;rsquo;t a fan of the Raspberry Pi? The little, cost-effective single-board computer that has so many uses, in fact at home I have 4 doing various things from monitoring temperature and humidity in my greenhouse to serving up a dashboard interface for my home automation solution, both projects which I will write more about in future posts. But what makes the Raspberry Pi even better, well Snaps of course.</description>
     </item>
     
     <item>
       <title>Human Computer Interaction, to the max</title>
-      <link>http://www.linuxuk.org/post/hci-to-the-max/</link>
+      <link>/post/hci-to-the-max/</link>
       <pubDate>Wed, 14 Feb 2018 18:30:01 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/hci-to-the-max/</guid>
+      <guid>/post/hci-to-the-max/</guid>
       <description>Interfacing with computers is inevitable in today&amp;rsquo;s developed societies but what most people think of when asked about computer interaction is probably bashing the keyboard, one finger at a time, on a laptop or desktop or, for the more tech-savvy they may talk about phones and tablets. Less people talk about cars, TVs, airport ticketing machines, wearables, digital assistants like Alexa or Siri, even fridges, washing machines, and billboards. A small but increasingly vocal subset talk about a new generation of computing that will revolutionise the definition of computers and even humanity.</description>
     </item>
     
     <item>
       <title>Spotify as a Snap, putting the developer in control</title>
-      <link>http://www.linuxuk.org/post/spotify-as-a-snap/</link>
+      <link>/post/spotify-as-a-snap/</link>
       <pubDate>Tue, 09 Jan 2018 12:38:52 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/spotify-as-a-snap/</guid>
+      <guid>/post/spotify-as-a-snap/</guid>
       <description>Just before Christmas Canonical announced that the world&amp;rsquo;s most popular music streaming service, Spotify, is now available as a Snap, but what makes this significant I hear you ask? Well Spotify and many other developers are choosing a new way of delivering software to Linux users and Snaps are at the forefront.
 One of the important aspects of Snaps is not so much about the technology, but more about where the software comes from.</description>
     </item>
     
     <item>
       <title>Smart Healthcare Trends: Part 4, Implantable Medical Devices (IMD) and Wearables</title>
-      <link>http://www.linuxuk.org/post/smarthealthcare-trends4/</link>
+      <link>/post/smarthealthcare-trends4/</link>
       <pubDate>Thu, 17 Aug 2017 15:41:30 +0200</pubDate>
       
-      <guid>http://www.linuxuk.org/post/smarthealthcare-trends4/</guid>
+      <guid>/post/smarthealthcare-trends4/</guid>
       <description>For Part 1, 2, and 3 in this series where I look at trends in Smart Healthcare please click here, here and here.
 Implantable Medical Devices (IMD) and Wearables  There are many challenges to designing devices that can operate in the somewhat harsh environment of the body. Using the Medical Implant Communication Service (MICS), low powered antennas, and programmable and configurable components which allow for changes after the implant has been made is the way to go but this of course comes with risks.</description>
     </item>
     
     <item>
       <title>Smart Healthcare Trends: Part 3, Preventative Healthcare</title>
-      <link>http://www.linuxuk.org/post/smarthealthcare-trends3/</link>
+      <link>/post/smarthealthcare-trends3/</link>
       <pubDate>Fri, 21 Jul 2017 13:11:24 +0200</pubDate>
       
-      <guid>http://www.linuxuk.org/post/smarthealthcare-trends3/</guid>
+      <guid>/post/smarthealthcare-trends3/</guid>
       <description>For Part 1 and 2 in this series where I look at trends in Smart Healthcare please click here and here.
 Preventative Healthcare  There is a growing trend towards preventative measures especially as technology advances enable a new generation of smart healthcare. The vision portrayed by Rochester Universities “Smart Medical Home” in 2004 is one that controls everything from the “nutritious meals” to the “high-tech first aid kits that can diagnose and cure even the most life-threatening injuries and ailments”.</description>
     </item>
     
     <item>
       <title>Smart Healthcare Trends: Part 2, Augmented Reality</title>
-      <link>http://www.linuxuk.org/post/smarthealthcare-trends2/</link>
+      <link>/post/smarthealthcare-trends2/</link>
       <pubDate>Fri, 07 Jul 2017 10:32:12 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/smarthealthcare-trends2/</guid>
+      <guid>/post/smarthealthcare-trends2/</guid>
       <description>For Part 1 in this series where I look at trends in Smart Healthcare please click here
 Augmented Reality Augmented Reality (AR) is the field of study concerned with meshing the real world with computer generated data and images to provide an enhanced view of reality. AR has been used in rehabilitation to encourage movement in patients suffering with akinesia, which is a disorder that is characterised as a loss or absence of voluntary movement.</description>
     </item>
     
     <item>
       <title>Smart Healthcare Trends: Part 1, Automation</title>
-      <link>http://www.linuxuk.org/post/smarthealthcare-trends1/</link>
+      <link>/post/smarthealthcare-trends1/</link>
       <pubDate>Tue, 04 Jul 2017 09:36:46 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/smarthealthcare-trends1/</guid>
+      <guid>/post/smarthealthcare-trends1/</guid>
       <description>Healthcare is going through a revolution at the moment. An increasingly aging population means that the strain on traditional healthcare resources is at boiling point but there is hope. Technological advances mean that healthcare can often be delivered in the home, promoting a more decentralised model and more importantly something that can scale. The UN Department of Economic and Social Affairs Population Division predicts that 25% of the UK population will be aged over 65 by 2035 compared to less than 18% today and this trend isn&amp;rsquo;t reversing any time soon.</description>
     </item>
     
     <item>
       <title>Why software updates matter, especially in the world of IoT</title>
-      <link>http://www.linuxuk.org/post/updates-in-the-iot-world/</link>
+      <link>/post/updates-in-the-iot-world/</link>
       <pubDate>Wed, 10 May 2017 09:29:04 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/updates-in-the-iot-world/</guid>
+      <guid>/post/updates-in-the-iot-world/</guid>
       <description>Why update? We all know what software updates are, we see them all the time on our phones, tablets, desktops and servers. They appear as pop-ups, in the message of the day (motd), and even have dedicated applications extolling their necessity, and all for good reason. Having out of date software often means, at best a degraded user experience, at worst a security hole exploitable by hackers. When you consider that analysts such as Gartner predict that the IoT will connect over 20 billion devices by 2020 the necessity for a clean and crisp update mechanism becomes paramount to any device.</description>
     </item>
     
     <item>
       <title>Ubuntu Core 16, a real landmark for IoT Software</title>
-      <link>http://www.linuxuk.org/post/ubuntu-core-16/</link>
+      <link>/post/ubuntu-core-16/</link>
       <pubDate>Wed, 09 Nov 2016 19:38:40 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/ubuntu-core-16/</guid>
+      <guid>/post/ubuntu-core-16/</guid>
       <description>Internet of Things (IoT) devices have come a long way over the last couple of decades. In 1996 I remember being in complete awe at turning on a light from my Pentium II-based desktop computer using X10 and being equally frustrated when I switched on the microwave and the same light turned off. In equal parts it marveled and disappointed and to top it off it wasn&amp;rsquo;t particularly cheap. Fast-forward a couple of decades and IoT is the new buzz-word, previously know as Ubiquitous Computing, Pervasive Computing, and a whole host of other buzz words but in short what it really means is our &amp;lsquo;things&amp;rsquo;, our devices, our environments, are all getting smarter.</description>
     </item>
     
     <item>
       <title>Fixing Git on MacOS X Sierra</title>
-      <link>http://www.linuxuk.org/post/fixing_git_on_macos_sierra/</link>
+      <link>/post/fixing_git_on_macos_sierra/</link>
       <pubDate>Tue, 13 Sep 2016 12:55:14 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/fixing_git_on_macos_sierra/</guid>
+      <guid>/post/fixing_git_on_macos_sierra/</guid>
       <description>If, like me you have upgraded to the Mac OS X Sierra beta you may find that Git is broken from the command line. The error I was seeing was:
  xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  It turns out that the developer tools are borked on upgrade so need reinstalling. To do that you need to run:
  xcode-select --install  After a short download and installation everything should be back to normal.</description>
@@ -128,20 +128,20 @@ Augmented Reality Augmented Reality (AR) is the field of study concerned with me
     
     <item>
       <title>Cheddar Half Marathon and Broadlands 10 Miler</title>
-      <link>http://www.linuxuk.org/post/cheddar_half_and_broadlands_10miler/</link>
+      <link>/post/cheddar_half_and_broadlands_10miler/</link>
       <pubDate>Fri, 01 Jul 2016 20:44:42 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/cheddar_half_and_broadlands_10miler/</guid>
+      <guid>/post/cheddar_half_and_broadlands_10miler/</guid>
       <description>A bit belated but here is a short report of two events I ran over the last month or so: the Keynsham 10 Miler and the Cheddar Gorge Half Marathon.
 Keynsham 10 Miler (10 miles, 16.1 km) This event was held on Sunday 22nd May in, you guessed it, Keynsham. The weather was fine although it had been raining the previous days which mean the largely undulating and off-road run was, muddy.</description>
     </item>
     
     <item>
       <title>snap try: The quick way to package snaps</title>
-      <link>http://www.linuxuk.org/post/snap_try/</link>
+      <link>/post/snap_try/</link>
       <pubDate>Fri, 01 Jul 2016 20:32:12 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/snap_try/</guid>
+      <guid>/post/snap_try/</guid>
       <description>This weeks snippet is all to do with improving the snap developer experience.
 Since the release of snapd 2.0.8 we have added one of the most useful tools for snap developers:
 snap try
@@ -150,93 +150,93 @@ What this does is effectively mounts any folder containing an unpackaged snap at
     
     <item>
       <title>Are snaps really cross distro?</title>
-      <link>http://www.linuxuk.org/post/cross-distro-snaps/</link>
+      <link>/post/cross-distro-snaps/</link>
       <pubDate>Thu, 16 Jun 2016 18:41:40 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/cross-distro-snaps/</guid>
+      <guid>/post/cross-distro-snaps/</guid>
       <description>Yesterday we announced the new home for everything snaps and Snapcraft, snapcraft.io, and at the same time made available the cross-distribution work that really does means snaps can run on virtually any Linux distribution. Today we have enabled support for Debian, Arch, Gentoo, Fedora, and of course Ubuntu and all its flavours but enabling more including OpenSUSE, CentOS, Elementary, Mint, OpenWrt and others is in the works.
 The announcements was met with a mostly positive response which, given that Linux packaging has been an issue for so many people and for so long, is hardly surprising.</description>
     </item>
     
     <item>
       <title>Contributing to the snapd project</title>
-      <link>http://www.linuxuk.org/post/contributing_to_snapd/</link>
+      <link>/post/contributing_to_snapd/</link>
       <pubDate>Wed, 01 Jun 2016 09:40:26 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/contributing_to_snapd/</guid>
+      <guid>/post/contributing_to_snapd/</guid>
       <description>There is a lot of buzz around snaps, the new packaging format created by Canonical to enable secure, transactional, and robust application updates, and rightly so. This new method of distributing applications is revolutionizing not only software on IoT devices, but on the desktop, server, and beyond. The software that actually runs the snap applications is called snapd. Hosted on GitHub, snapd uses the Go language and is actively developed by a core set of developers, but, like most projects at Canonical, we actively encourage as much community participation as possible.</description>
     </item>
     
     <item>
       <title>Snapping an Electron-based Application: Simplenote</title>
-      <link>http://www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</link>
+      <link>/post/snapping_electron_based_applications_simplenote/</link>
       <pubDate>Wed, 18 May 2016 09:40:26 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</guid>
+      <guid>/post/snapping_electron_based_applications_simplenote/</guid>
       <description>Snapcraft is described as a “delightful packaging tool”, enabling a developer to package their app from a single tree by aggregating the pieces from multiple places if necessary. It supports multiple build technologies and produces a .snap package with all its dependencies for Ubuntu Core and now the Ubuntu Classic Desktop (using snapd). It is the future of packaging for Linux-based systems. I encourage the reader to read the documentation on GitHub to get a flavour of what Snapcraft is and to learn more about the key concepts, setting up your system to produce snaps, and a nice first snap walkthrough example.</description>
     </item>
     
     <item>
       <title>The Pensford 10k</title>
-      <link>http://www.linuxuk.org/post/pensford10k/</link>
+      <link>/post/pensford10k/</link>
       <pubDate>Sun, 24 Apr 2016 21:13:10 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/pensford10k/</guid>
+      <guid>/post/pensford10k/</guid>
       <description>Another week, another race, this time the Pensford 10k event, but lets take a little step back first.
 At the beginning of my &amp;lsquo;racing&amp;rsquo; (very loose term for official events) calendar selection I had the aim of adding at least one, preferably two events per month to ensure that the pressure to line up against others kept me honest and provided the motivation to get my backside off the couch and training.</description>
     </item>
     
     <item>
       <title>Running the Cheddar Gorge 10k</title>
-      <link>http://www.linuxuk.org/post/cheddar_gorge_10k/</link>
+      <link>/post/cheddar_gorge_10k/</link>
       <pubDate>Mon, 11 Apr 2016 20:11:08 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/cheddar_gorge_10k/</guid>
+      <guid>/post/cheddar_gorge_10k/</guid>
       <description>This week I ran the 2016 inaugural Cheddar Gorge Challenge event, the 10k race. Billed as a &amp;lsquo;lumpy course&amp;rsquo; these series of runs offer &amp;ldquo;more climbing just getting to the start than you will in most other events&amp;rdquo;. With the affectionately named Hell Steps towards the end this is a tough run but more importantly, it is a fun event. Cheddar is beautiful, steeped in history and picturesque from the bottom of the gorge let alone from running up and down it so the prospect of completing 3 races (10k, half marathon, and marathon) in and around the area was too enticing to pass up.</description>
     </item>
     
     <item>
       <title>A Change of Scenery</title>
-      <link>http://www.linuxuk.org/post/a-change-of-scenery/</link>
+      <link>/post/a-change-of-scenery/</link>
       <pubDate>Wed, 06 Apr 2016 20:59:00 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/a-change-of-scenery/</guid>
+      <guid>/post/a-change-of-scenery/</guid>
       <description>A few weeks I joined Canonical and for the eagle-eyed you&amp;rsquo;d realise this is actually for the second time. Previously at Canonical I spent my days with the Mobile Team, realising the goal of a good Linux on ARM experience which eventually culminated in the foundation of Linaro. This time I am equally excited about another formative stage of technology, that of IoT and the possibilities of interoperable and extensible devices running a standard Linux operating system.</description>
     </item>
     
     <item>
       <title>Running in Nepal</title>
-      <link>http://www.linuxuk.org/post/running_in_nepal/</link>
+      <link>/post/running_in_nepal/</link>
       <pubDate>Sun, 21 Feb 2016 17:58:58 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/running_in_nepal/</guid>
+      <guid>/post/running_in_nepal/</guid>
       <description>Nepal is such a wonderful place. Steeped in history and culture with some of the most breath-taking sights to be seen, Nepal is the home to Buddhism, the Himalayas, and of course the mighty Mt Everest. Despite all this wealth, the country and the people themselves face a lot of challenges. Economically Nepal is considered a third-world country with many people in utter poverty. To compound this hardship, Nepal has also experienced terrible earthquakes that have left many dead and even more without basic needs such as accommodation, access to food and clean water, and education.</description>
     </item>
     
     <item>
       <title>Parkrun</title>
-      <link>http://www.linuxuk.org/post/parkrun/</link>
+      <link>/post/parkrun/</link>
       <pubDate>Tue, 19 Jan 2016 14:03:55 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/parkrun/</guid>
+      <guid>/post/parkrun/</guid>
       <description>I have a confession to make. While I have publicly supported the parkrun initiative for some time and I wholeheartedly believe it is a great idea, I have never actually ran one myself. There have been many excuses from family conflicts at the weekends to blaming the weather but this week I thought I would actually ignore all of this and partake in the spectacle. I chose the closest event, which for me was Southwick Country Park in Trowbridge and arrived before the customary 9am start time.</description>
     </item>
     
     <item>
       <title>Fujitsu SnapScan 1300i with Ubuntu</title>
-      <link>http://www.linuxuk.org/post/scansnap1300i_ubuntu/</link>
+      <link>/post/scansnap1300i_ubuntu/</link>
       <pubDate>Wed, 30 Dec 2015 21:35:27 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/scansnap1300i_ubuntu/</guid>
+      <guid>/post/scansnap1300i_ubuntu/</guid>
       <description>I&amp;rsquo;ve been using the Fujitsu ScanSnap 1300i on Mac OS X for some time now in the pursuit of a paperless life but now that I am using Ubuntu more and more it was apparent that I was going to have to get this little scanner working on Linux. Searching the internet threw up a few interesting articles but nothing worked 100%. In the end the steps I used under Ubuntu 15.</description>
     </item>
     
     <item>
       <title>Running Ubuntu Snappy Core Virtualised on Mac OSX</title>
-      <link>http://www.linuxuk.org/post/running_ubuntu_snappy_on_osx_virtualbox/</link>
+      <link>/post/running_ubuntu_snappy_on_osx_virtualbox/</link>
       <pubDate>Mon, 09 Nov 2015 14:09:32 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/running_ubuntu_snappy_on_osx_virtualbox/</guid>
+      <guid>/post/running_ubuntu_snappy_on_osx_virtualbox/</guid>
       <description>Although most of the documentation out there today shows you how to run Ubuntu Snappy Core on an Ubuntu desktop, it is also pretty simple to do this on Mac OSX. In short:
 Download the Ubuntu Snappy Core image from:
 http://releases.ubuntu.com/15.04/  You will need the amd64 version of Snappy.
@@ -247,10 +247,10 @@ qemu-img convert -f raw -O vmdk ubuntu-15.</description>
     
     <item>
       <title>Installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac</title>
-      <link>http://www.linuxuk.org/post/ubuntu-snappy-with-mac/</link>
+      <link>/post/ubuntu-snappy-with-mac/</link>
       <pubDate>Fri, 06 Nov 2015 12:23:30 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/ubuntu-snappy-with-mac/</guid>
+      <guid>/post/ubuntu-snappy-with-mac/</guid>
       <description>This is a short guide to installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac. It is pretty straight-forward but there are a couple of areas where you can get caught out.
 First, download the Ubuntu Snappy image from:
  http://people.canonical.com/%7Eplatform/snappy/raspberrypi2/  As of writing the latest release was:
@@ -259,66 +259,66 @@ First, download the Ubuntu Snappy image from:
     
     <item>
       <title>Life with Apple&#39;s iWatch</title>
-      <link>http://www.linuxuk.org/post/life-with-apples-iwatch/</link>
+      <link>/post/life-with-apples-iwatch/</link>
       <pubDate>Wed, 19 Aug 2015 19:41:08 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/life-with-apples-iwatch/</guid>
+      <guid>/post/life-with-apples-iwatch/</guid>
       <description>I confess, I’m a bit of a gadget hound. I own four different smart watches all with different OSs:
  Pebble with PebbleOS Samsung Gear with Tizen Motorola 360 with Android Wear and now Apple iWatch with WatchOS  When I first got the Pebble (Kickstarter model) I was instantly impressed. It was a device that lasted days, gave me notifications at a glance, and allowed me keep my phone in my pocket unless it was really needed.</description>
     </item>
     
     <item>
       <title>Humans</title>
-      <link>http://www.linuxuk.org/post/humans/</link>
+      <link>/post/humans/</link>
       <pubDate>Mon, 10 Aug 2015 20:06:44 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/humans/</guid>
+      <guid>/post/humans/</guid>
       <description>As a scholar of software engineering with a particular interest in the field of ubiquitous computing and artificial intelligence, the recent series by AMC, “Humans” really did peak my interest. Is it something based on sensationalism or alternatively something that could be considered grounded in reality? Well, I believe that it is a drama that reflects more on the latter than the former. I really like the concept so far and it raises questions that only academia have explored in detail before movie studios love; concepts such as artificial understanding, consciousness, love, and the projection of human traits upon non-human subjects (anthropomorphism).</description>
     </item>
     
     <item>
       <title>Creating bootable USB images on the Mac</title>
-      <link>http://www.linuxuk.org/post/creating-bootable-usb-images-on-mac/</link>
+      <link>/post/creating-bootable-usb-images-on-mac/</link>
       <pubDate>Fri, 27 Mar 2015 09:23:34 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/creating-bootable-usb-images-on-mac/</guid>
+      <guid>/post/creating-bootable-usb-images-on-mac/</guid>
       <description>Creating a bootable image for installing a Linux OS is pretty straight-forward but when you are doing this on the Mac there is a specific way it needs to be done. I alway use USB drives for this purpose so what follows are the steps needed to create a bootable USB stick from a Linux .iso image.
 I presume you have already downloaded your favourate Linux distribution in .iso format, below I&amp;rsquo;m using Debian Jessie.</description>
     </item>
     
     <item>
       <title>Trusted Execution Environments in Android</title>
-      <link>http://www.linuxuk.org/post/trusted-execution-enviroment/</link>
+      <link>/post/trusted-execution-enviroment/</link>
       <pubDate>Sun, 15 Mar 2015 19:56:29 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/trusted-execution-enviroment/</guid>
+      <guid>/post/trusted-execution-enviroment/</guid>
       <description>Continuing on from my post about TrustZone it seems that there is a lot of interest in hardware-backed security for Android and what you can do with it. One of the most interesting things that a hardware-isolated area can do for devices, whether that be a dedicated co-processor or technology such as TrustZone, is to provide a trusted enviroment dedicated to protecting your most valuable assets and the operations that are performed on them.</description>
     </item>
     
     <item>
       <title>What are you passionate about?</title>
-      <link>http://www.linuxuk.org/post/what-are-you-passionate-about/</link>
+      <link>/post/what-are-you-passionate-about/</link>
       <pubDate>Thu, 26 Feb 2015 22:00:40 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/what-are-you-passionate-about/</guid>
+      <guid>/post/what-are-you-passionate-about/</guid>
       <description>I have recently been reading the book entitled Talk Like TED Carmine Gallo which promises to bestow the virtues of great public speaking upon all who read it. Early on in the book there is a rather salient point that got me thinking, a point that starts with a simple question, &amp;ldquo;What are you passionate about&amp;rdquo;. Now there are quite a few things I am passionate about but in the context of Software Engineering, my chosen career path, it is something that underpins all the great projects that over time I have really enjoyed working on.</description>
     </item>
     
     <item>
       <title>TrustZone For Android Mobile Security</title>
-      <link>http://www.linuxuk.org/post/trustzone-for-mobile-security/</link>
+      <link>/post/trustzone-for-mobile-security/</link>
       <pubDate>Sun, 22 Feb 2015 17:13:52 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/trustzone-for-mobile-security/</guid>
+      <guid>/post/trustzone-for-mobile-security/</guid>
       <description>Recently I was asked to provide a quick, high-level introduction to TrustZone and how it could potentially improve the security on Android platforms. Any response to this is tricky: TrustZone is just a mechanism built in to a platform that if unused can do very little for device security but when utilised to its fullest, can create a totally seperate environment dedicated to protecting your most important secrets. But first a bit of background.</description>
     </item>
     
     <item>
       <title>Getting back into blogging</title>
-      <link>http://www.linuxuk.org/post/more-blogging/</link>
+      <link>/post/more-blogging/</link>
       <pubDate>Wed, 18 Feb 2015 10:18:26 +0000</pubDate>
       
-      <guid>http://www.linuxuk.org/post/more-blogging/</guid>
+      <guid>/post/more-blogging/</guid>
       <description>Its been a while, in fact it has been around a year since I updated this site (to be fair I did write a few posts on another blog during that period &amp;hellip; excuses, excuses) which I attribute to a increasingly busy schedule but more to a lack of enthusiasm. So, in an attempt to get back into this blogging lark I thought it would be a good opportunity to redesign the site with Hugo, a static, but more importantly Markdown-based web engine, and put up a few articles on something dear to my heart, Software Engineering.</description>
     </item>
     

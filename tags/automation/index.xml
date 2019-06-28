@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on LinuxUK</title>
-    <link>http://www.linuxuk.org/tags/automation/</link>
+    <link>/tags/automation/</link>
     <description>Recent content in Automation on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Tue, 04 Jul 2017 09:36:46 +0100</lastBuildDate>
     
-	<atom:link href="http://www.linuxuk.org/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smart Healthcare Trends: Part 1, Automation</title>
-      <link>http://www.linuxuk.org/post/smarthealthcare-trends1/</link>
+      <link>/post/smarthealthcare-trends1/</link>
       <pubDate>Tue, 04 Jul 2017 09:36:46 +0100</pubDate>
       
-      <guid>http://www.linuxuk.org/post/smarthealthcare-trends1/</guid>
+      <guid>/post/smarthealthcare-trends1/</guid>
       <description>Healthcare is going through a revolution at the moment. An increasingly aging population means that the strain on traditional healthcare resources is at boiling point but there is hope. Technological advances mean that healthcare can often be delivered in the home, promoting a more decentralised model and more importantly something that can scale. The UN Department of Economic and Social Affairs Population Division predicts that 25% of the UK population will be aged over 65 by 2035 compared to less than 18% today and this trend isn&amp;rsquo;t reversing any time soon.</description>
     </item>
     
