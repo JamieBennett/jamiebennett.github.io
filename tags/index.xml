@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>http://www.linuxuk.org/tags/robotics/</link>
-      <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
-      
-      <guid>http://www.linuxuk.org/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Software</title>
       <link>http://www.linuxuk.org/tags/software/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
@@ -54,6 +45,15 @@
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
       <guid>http://www.linuxuk.org/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>http://www.linuxuk.org/tags/robotics/</link>
+      <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
+      
+      <guid>http://www.linuxuk.org/tags/robotics/</guid>
       <description></description>
     </item>
     

@@ -32,12 +32,6 @@
   </url>
   
   <url>
-    <loc>http://www.linuxuk.org/tags/robotics/</loc>
-    <lastmod>2018-10-17T10:37:08+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.linuxuk.org/tags/software/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
@@ -51,6 +45,12 @@
   
   <url>
     <loc>http://www.linuxuk.org/tags/ubuntu/</loc>
+    <lastmod>2018-10-17T10:37:08+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.linuxuk.org/tags/robotics/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
   </url>
