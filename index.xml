@@ -352,5 +352,14 @@ I&amp;rsquo;m also the Vice President of Engineering at Canonical, the guys behi
  Sustainability Journal: Heathcare in the Smart Home: A study of past, present, and future Info Security: Securing Against Developer Pressure Information Security Buzz: IoT Code of Conduct IT Pro Portal: New business models on their way for IoT hardware Electronics Weekly: New business models on IoT hardware, by software Tech Radar: How 5G will enable the next generation of IoT deployments New Electronics: Industry 4.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About &amp;middot; LinuxUK   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;); ga(&#39;create&#39;, &#39;UA-2301466-2&#39;, &#39;auto&#39;); ga(&#39;send&#39;, &#39;pageview&#39;);    LinuxUK Adventures in Software Engineering, Running, Vegan cooking, futurism, and other randomness  Home About Writings Archive      &amp;copy; 2018, Jamie Bennett. All rights reserved. Want the RSS feed?   About Mon, Feb 9, 2015 Hi, my name is Jamie Bennett. I&amp;rsquo;m a technologist, programmer, researcher, tech evangelist, open source monkey, Linux lover and self confessed gadget freak.</description>
+    </item>
+    
   </channel>
 </rss>
