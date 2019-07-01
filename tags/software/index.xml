@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on LinuxUK</title>
-    <link>www.linuxuk.org/tags/software/</link>
+    <link>/tags/software/</link>
     <description>Recent content in Software on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 17 Oct 2018 10:37:08 +0100</lastBuildDate>
     
-	<atom:link href="www.linuxuk.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deprecating software is hard; why the move to ROS 2 is causing heated debate</title>
-      <link>www.linuxuk.org/post/deprecating_software_is_hard/</link>
+      <link>/post/deprecating_software_is_hard/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/post/deprecating_software_is_hard/</guid>
+      <guid>/post/deprecating_software_is_hard/</guid>
       <description>Software never stays the same Inevitably, all software is destined to die. Whether that is through becoming end of life (EOL), obsolete, or unused, or through the code being rewritten and replaced, software is not static and nor should it be. Bug fixes, security updates, and new functionality ensure that code churn, or the number of lines being modified, keeps developers busy and projects healthy. But, what happens when software completely changes?</description>
     </item>
     
     <item>
       <title>Spotify as a Snap, putting the developer in control</title>
-      <link>www.linuxuk.org/post/spotify-as-a-snap/</link>
+      <link>/post/spotify-as-a-snap/</link>
       <pubDate>Tue, 09 Jan 2018 12:38:52 +0000</pubDate>
       
-      <guid>www.linuxuk.org/post/spotify-as-a-snap/</guid>
+      <guid>/post/spotify-as-a-snap/</guid>
       <description>Just before Christmas Canonical announced that the world&amp;rsquo;s most popular music streaming service, Spotify, is now available as a Snap, but what makes this significant I hear you ask? Well Spotify and many other developers are choosing a new way of delivering software to Linux users and Snaps are at the forefront.
 One of the important aspects of Snaps is not so much about the technology, but more about where the software comes from.</description>
     </item>

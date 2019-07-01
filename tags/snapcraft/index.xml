@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snapcraft on LinuxUK</title>
-    <link>www.linuxuk.org/tags/snapcraft/</link>
+    <link>/tags/snapcraft/</link>
     <description>Recent content in Snapcraft on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 18 May 2016 09:40:26 +0100</lastBuildDate>
     
-	<atom:link href="www.linuxuk.org/tags/snapcraft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/snapcraft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Snapping an Electron-based Application: Simplenote</title>
-      <link>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</link>
+      <link>/post/snapping_electron_based_applications_simplenote/</link>
       <pubDate>Wed, 18 May 2016 09:40:26 +0100</pubDate>
       
-      <guid>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</guid>
+      <guid>/post/snapping_electron_based_applications_simplenote/</guid>
       <description>Snapcraft is described as a “delightful packaging tool”, enabling a developer to package their app from a single tree by aggregating the pieces from multiple places if necessary. It supports multiple build technologies and produces a .snap package with all its dependencies for Ubuntu Core and now the Ubuntu Classic Desktop (using snapd). It is the future of packaging for Linux-based systems. I encourage the reader to read the documentation on GitHub to get a flavour of what Snapcraft is and to learn more about the key concepts, setting up your system to produce snaps, and a nice first snap walkthrough example.</description>
     </item>
     

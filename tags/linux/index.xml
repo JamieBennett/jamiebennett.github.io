@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on LinuxUK</title>
-    <link>www.linuxuk.org/tags/linux/</link>
+    <link>/tags/linux/</link>
     <description>Recent content in Linux on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 20:32:12 +0100</lastBuildDate>
     
-	<atom:link href="www.linuxuk.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>snap try: The quick way to package snaps</title>
-      <link>www.linuxuk.org/post/snap_try/</link>
+      <link>/post/snap_try/</link>
       <pubDate>Fri, 01 Jul 2016 20:32:12 +0100</pubDate>
       
-      <guid>www.linuxuk.org/post/snap_try/</guid>
+      <guid>/post/snap_try/</guid>
       <description>This weeks snippet is all to do with improving the snap developer experience.
 Since the release of snapd 2.0.8 we have added one of the most useful tools for snap developers:
 snap try
@@ -26,47 +26,47 @@ What this does is effectively mounts any folder containing an unpackaged snap at
     
     <item>
       <title>Are snaps really cross distro?</title>
-      <link>www.linuxuk.org/post/cross-distro-snaps/</link>
+      <link>/post/cross-distro-snaps/</link>
       <pubDate>Thu, 16 Jun 2016 18:41:40 +0100</pubDate>
       
-      <guid>www.linuxuk.org/post/cross-distro-snaps/</guid>
+      <guid>/post/cross-distro-snaps/</guid>
       <description>Yesterday we announced the new home for everything snaps and Snapcraft, snapcraft.io, and at the same time made available the cross-distribution work that really does means snaps can run on virtually any Linux distribution. Today we have enabled support for Debian, Arch, Gentoo, Fedora, and of course Ubuntu and all its flavours but enabling more including OpenSUSE, CentOS, Elementary, Mint, OpenWrt and others is in the works.
 The announcements was met with a mostly positive response which, given that Linux packaging has been an issue for so many people and for so long, is hardly surprising.</description>
     </item>
     
     <item>
       <title>Contributing to the snapd project</title>
-      <link>www.linuxuk.org/post/contributing_to_snapd/</link>
+      <link>/post/contributing_to_snapd/</link>
       <pubDate>Wed, 01 Jun 2016 09:40:26 +0100</pubDate>
       
-      <guid>www.linuxuk.org/post/contributing_to_snapd/</guid>
+      <guid>/post/contributing_to_snapd/</guid>
       <description>There is a lot of buzz around snaps, the new packaging format created by Canonical to enable secure, transactional, and robust application updates, and rightly so. This new method of distributing applications is revolutionizing not only software on IoT devices, but on the desktop, server, and beyond. The software that actually runs the snap applications is called snapd. Hosted on GitHub, snapd uses the Go language and is actively developed by a core set of developers, but, like most projects at Canonical, we actively encourage as much community participation as possible.</description>
     </item>
     
     <item>
       <title>Snapping an Electron-based Application: Simplenote</title>
-      <link>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</link>
+      <link>/post/snapping_electron_based_applications_simplenote/</link>
       <pubDate>Wed, 18 May 2016 09:40:26 +0100</pubDate>
       
-      <guid>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</guid>
+      <guid>/post/snapping_electron_based_applications_simplenote/</guid>
       <description>Snapcraft is described as a “delightful packaging tool”, enabling a developer to package their app from a single tree by aggregating the pieces from multiple places if necessary. It supports multiple build technologies and produces a .snap package with all its dependencies for Ubuntu Core and now the Ubuntu Classic Desktop (using snapd). It is the future of packaging for Linux-based systems. I encourage the reader to read the documentation on GitHub to get a flavour of what Snapcraft is and to learn more about the key concepts, setting up your system to produce snaps, and a nice first snap walkthrough example.</description>
     </item>
     
     <item>
       <title>Fujitsu SnapScan 1300i with Ubuntu</title>
-      <link>www.linuxuk.org/post/scansnap1300i_ubuntu/</link>
+      <link>/post/scansnap1300i_ubuntu/</link>
       <pubDate>Wed, 30 Dec 2015 21:35:27 +0000</pubDate>
       
-      <guid>www.linuxuk.org/post/scansnap1300i_ubuntu/</guid>
+      <guid>/post/scansnap1300i_ubuntu/</guid>
       <description>I&amp;rsquo;ve been using the Fujitsu ScanSnap 1300i on Mac OS X for some time now in the pursuit of a paperless life but now that I am using Ubuntu more and more it was apparent that I was going to have to get this little scanner working on Linux. Searching the internet threw up a few interesting articles but nothing worked 100%. In the end the steps I used under Ubuntu 15.</description>
     </item>
     
     <item>
       <title>Creating bootable USB images on the Mac</title>
-      <link>www.linuxuk.org/post/creating-bootable-usb-images-on-mac/</link>
+      <link>/post/creating-bootable-usb-images-on-mac/</link>
       <pubDate>Fri, 27 Mar 2015 09:23:34 +0000</pubDate>
       
-      <guid>www.linuxuk.org/post/creating-bootable-usb-images-on-mac/</guid>
+      <guid>/post/creating-bootable-usb-images-on-mac/</guid>
       <description>Creating a bootable image for installing a Linux OS is pretty straight-forward but when you are doing this on the Mac there is a specific way it needs to be done. I alway use USB drives for this purpose so what follows are the steps needed to create a bootable USB stick from a Linux .iso image.
 I presume you have already downloaded your favourate Linux distribution in .iso format, below I&amp;rsquo;m using Debian Jessie.</description>
     </item>

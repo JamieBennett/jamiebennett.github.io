@@ -2,427 +2,427 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LinuxUK</title>
-    <link>www.linuxuk.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Fri, 28 Jun 2019 18:09:55 +0000</lastBuildDate>
     
-	<atom:link href="www.linuxuk.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Electric Cars</title>
-      <link>www.linuxuk.org/tags/electric-cars/</link>
+      <link>/tags/electric-cars/</link>
       <pubDate>Fri, 28 Jun 2019 18:09:55 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/electric-cars/</guid>
+      <guid>/tags/electric-cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Renewables</title>
-      <link>www.linuxuk.org/tags/renewables/</link>
+      <link>/tags/renewables/</link>
       <pubDate>Fri, 28 Jun 2019 18:09:55 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/renewables/</guid>
+      <guid>/tags/renewables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>www.linuxuk.org/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ROS</title>
-      <link>www.linuxuk.org/tags/ros/</link>
+      <link>/tags/ros/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/ros/</guid>
+      <guid>/tags/ros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>www.linuxuk.org/tags/software/</link>
+      <link>/tags/software/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/software/</guid>
+      <guid>/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>www.linuxuk.org/tags/ubuntu/</link>
+      <link>/tags/ubuntu/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/ubuntu/</guid>
+      <guid>/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>robotics</title>
-      <link>www.linuxuk.org/tags/robotics/</link>
+      <link>/tags/robotics/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/robotics/</guid>
+      <guid>/tags/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gardening</title>
-      <link>www.linuxuk.org/tags/gardening/</link>
+      <link>/tags/gardening/</link>
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/gardening/</guid>
+      <guid>/tags/gardening/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plants</title>
-      <link>www.linuxuk.org/tags/plants/</link>
+      <link>/tags/plants/</link>
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/plants/</guid>
+      <guid>/tags/plants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>raspberrypi</title>
-      <link>www.linuxuk.org/tags/raspberrypi/</link>
+      <link>/tags/raspberrypi/</link>
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/raspberrypi/</guid>
+      <guid>/tags/raspberrypi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snaps</title>
-      <link>www.linuxuk.org/tags/snaps/</link>
+      <link>/tags/snaps/</link>
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/snaps/</guid>
+      <guid>/tags/snaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xiaomi</title>
-      <link>www.linuxuk.org/tags/xiaomi/</link>
+      <link>/tags/xiaomi/</link>
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/xiaomi/</guid>
+      <guid>/tags/xiaomi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>raspbian</title>
-      <link>www.linuxuk.org/tags/raspbian/</link>
+      <link>/tags/raspbian/</link>
       <pubDate>Fri, 13 Apr 2018 15:47:22 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/raspbian/</guid>
+      <guid>/tags/raspbian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ai</title>
-      <link>www.linuxuk.org/tags/ai/</link>
+      <link>/tags/ai/</link>
       <pubDate>Wed, 14 Feb 2018 18:30:01 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/ai/</guid>
+      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>futurism</title>
-      <link>www.linuxuk.org/tags/futurism/</link>
+      <link>/tags/futurism/</link>
       <pubDate>Wed, 14 Feb 2018 18:30:01 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/futurism/</guid>
+      <guid>/tags/futurism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hci</title>
-      <link>www.linuxuk.org/tags/hci/</link>
+      <link>/tags/hci/</link>
       <pubDate>Wed, 14 Feb 2018 18:30:01 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/hci/</guid>
+      <guid>/tags/hci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotify</title>
-      <link>www.linuxuk.org/tags/spotify/</link>
+      <link>/tags/spotify/</link>
       <pubDate>Tue, 09 Jan 2018 12:38:52 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/spotify/</guid>
+      <guid>/tags/spotify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augmented Reality</title>
-      <link>www.linuxuk.org/tags/augmented-reality/</link>
+      <link>/tags/augmented-reality/</link>
       <pubDate>Thu, 17 Aug 2017 15:41:30 +0200</pubDate>
       
-      <guid>www.linuxuk.org/tags/augmented-reality/</guid>
+      <guid>/tags/augmented-reality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Healthcare</title>
-      <link>www.linuxuk.org/tags/healthcare/</link>
+      <link>/tags/healthcare/</link>
       <pubDate>Thu, 17 Aug 2017 15:41:30 +0200</pubDate>
       
-      <guid>www.linuxuk.org/tags/healthcare/</guid>
+      <guid>/tags/healthcare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>www.linuxuk.org/tags/automation/</link>
+      <link>/tags/automation/</link>
       <pubDate>Tue, 04 Jul 2017 09:36:46 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/automation/</guid>
+      <guid>/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IoT</title>
-      <link>www.linuxuk.org/tags/iot/</link>
+      <link>/tags/iot/</link>
       <pubDate>Wed, 10 May 2017 09:29:04 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/iot/</guid>
+      <guid>/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>www.linuxuk.org/tags/security/</link>
+      <link>/tags/security/</link>
       <pubDate>Wed, 10 May 2017 09:29:04 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/security/</guid>
+      <guid>/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu Core</title>
-      <link>www.linuxuk.org/tags/ubuntu-core/</link>
+      <link>/tags/ubuntu-core/</link>
       <pubDate>Wed, 10 May 2017 09:29:04 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/ubuntu-core/</guid>
+      <guid>/tags/ubuntu-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>www.linuxuk.org/tags/git/</link>
+      <link>/tags/git/</link>
       <pubDate>Tue, 13 Sep 2016 12:55:14 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/git/</guid>
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MacOS</title>
-      <link>www.linuxuk.org/tags/macos/</link>
+      <link>/tags/macos/</link>
       <pubDate>Tue, 13 Sep 2016 12:55:14 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/macos/</guid>
+      <guid>/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tip</title>
-      <link>www.linuxuk.org/tags/tip/</link>
+      <link>/tags/tip/</link>
       <pubDate>Tue, 13 Sep 2016 12:55:14 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/tip/</guid>
+      <guid>/tags/tip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Running</title>
-      <link>www.linuxuk.org/tags/running/</link>
+      <link>/tags/running/</link>
       <pubDate>Fri, 01 Jul 2016 20:44:42 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/running/</guid>
+      <guid>/tags/running/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>www.linuxuk.org/tags/linux/</link>
+      <link>/tags/linux/</link>
       <pubDate>Fri, 01 Jul 2016 20:32:12 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/linux/</guid>
+      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snappy</title>
-      <link>www.linuxuk.org/tags/snappy/</link>
+      <link>/tags/snappy/</link>
       <pubDate>Fri, 01 Jul 2016 20:32:12 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/snappy/</guid>
+      <guid>/tags/snappy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snapd</title>
-      <link>www.linuxuk.org/tags/snapd/</link>
+      <link>/tags/snapd/</link>
       <pubDate>Wed, 01 Jun 2016 09:40:26 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/snapd/</guid>
+      <guid>/tags/snapd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snapcraft</title>
-      <link>www.linuxuk.org/tags/snapcraft/</link>
+      <link>/tags/snapcraft/</link>
       <pubDate>Wed, 18 May 2016 09:40:26 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/snapcraft/</guid>
+      <guid>/tags/snapcraft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marathon</title>
-      <link>www.linuxuk.org/tags/marathon/</link>
+      <link>/tags/marathon/</link>
       <pubDate>Sun, 21 Feb 2016 17:58:58 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/marathon/</guid>
+      <guid>/tags/marathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parkrun</title>
-      <link>www.linuxuk.org/tags/parkrun/</link>
+      <link>/tags/parkrun/</link>
       <pubDate>Tue, 19 Jan 2016 14:03:55 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/parkrun/</guid>
+      <guid>/tags/parkrun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper-Free</title>
-      <link>www.linuxuk.org/tags/paper-free/</link>
+      <link>/tags/paper-free/</link>
       <pubDate>Wed, 30 Dec 2015 21:35:27 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/paper-free/</guid>
+      <guid>/tags/paper-free/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rasberry Pi2</title>
-      <link>www.linuxuk.org/tags/rasberry-pi2/</link>
+      <link>/tags/rasberry-pi2/</link>
       <pubDate>Fri, 06 Nov 2015 12:23:30 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/rasberry-pi2/</guid>
+      <guid>/tags/rasberry-pi2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apple</title>
-      <link>www.linuxuk.org/tags/apple/</link>
+      <link>/tags/apple/</link>
       <pubDate>Wed, 19 Aug 2015 19:41:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/apple/</guid>
+      <guid>/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iWatch</title>
-      <link>www.linuxuk.org/tags/iwatch/</link>
+      <link>/tags/iwatch/</link>
       <pubDate>Wed, 19 Aug 2015 19:41:08 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/iwatch/</guid>
+      <guid>/tags/iwatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>www.linuxuk.org/tags/artificial-intelligence/</link>
+      <link>/tags/artificial-intelligence/</link>
       <pubDate>Mon, 10 Aug 2015 20:06:44 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/artificial-intelligence/</guid>
+      <guid>/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TV</title>
-      <link>www.linuxuk.org/tags/tv/</link>
+      <link>/tags/tv/</link>
       <pubDate>Mon, 10 Aug 2015 20:06:44 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/tv/</guid>
+      <guid>/tags/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubiquitous Computing</title>
-      <link>www.linuxuk.org/tags/ubiquitous-computing/</link>
+      <link>/tags/ubiquitous-computing/</link>
       <pubDate>Mon, 10 Aug 2015 20:06:44 +0100</pubDate>
       
-      <guid>www.linuxuk.org/tags/ubiquitous-computing/</guid>
+      <guid>/tags/ubiquitous-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mac</title>
-      <link>www.linuxuk.org/tags/mac/</link>
+      <link>/tags/mac/</link>
       <pubDate>Fri, 27 Mar 2015 09:23:34 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/mac/</guid>
+      <guid>/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>www.linuxuk.org/tags/android/</link>
+      <link>/tags/android/</link>
       <pubDate>Sun, 15 Mar 2015 19:56:29 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/android/</guid>
+      <guid>/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Career</title>
-      <link>www.linuxuk.org/tags/career/</link>
+      <link>/tags/career/</link>
       <pubDate>Thu, 26 Feb 2015 22:00:40 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/career/</guid>
+      <guid>/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self Help</title>
-      <link>www.linuxuk.org/tags/self-help/</link>
+      <link>/tags/self-help/</link>
       <pubDate>Thu, 26 Feb 2015 22:00:40 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/self-help/</guid>
+      <guid>/tags/self-help/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing</title>
-      <link>www.linuxuk.org/tags/writing/</link>
+      <link>/tags/writing/</link>
       <pubDate>Wed, 18 Feb 2015 10:18:26 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/writing/</guid>
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>www.linuxuk.org/tags/personal/</link>
+      <link>/tags/personal/</link>
       <pubDate>Mon, 09 Feb 2015 15:58:14 +0000</pubDate>
       
-      <guid>www.linuxuk.org/tags/personal/</guid>
+      <guid>/tags/personal/</guid>
       <description></description>
     </item>
     
