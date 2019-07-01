@@ -49,15 +49,6 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>www.linuxuk.org/tags/robotics/</link>
-      <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
-      
-      <guid>www.linuxuk.org/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Software</title>
       <link>www.linuxuk.org/tags/software/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
@@ -72,6 +63,24 @@
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
       <guid>www.linuxuk.org/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>www.linuxuk.org/tags/robotics/</link>
+      <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
+      
+      <guid>www.linuxuk.org/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snaps</title>
+      <link>www.linuxuk.org/tags/snaps/</link>
+      <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
+      
+      <guid>www.linuxuk.org/tags/snaps/</guid>
       <description></description>
     </item>
     
@@ -99,15 +108,6 @@
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
       <guid>www.linuxuk.org/tags/raspberrypi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>snaps</title>
-      <link>www.linuxuk.org/tags/snaps/</link>
-      <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
-      
-      <guid>www.linuxuk.org/tags/snaps/</guid>
       <description></description>
     </item>
     
