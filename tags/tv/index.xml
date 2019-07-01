@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TV on LinuxUK</title>
-    <link>/tags/tv/</link>
+    <link>www.linuxuk.org/tags/tv/</link>
     <description>Recent content in TV on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Mon, 10 Aug 2015 20:06:44 +0100</lastBuildDate>
     
-	<atom:link href="/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/tv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Humans</title>
-      <link>/post/humans/</link>
+      <link>www.linuxuk.org/post/humans/</link>
       <pubDate>Mon, 10 Aug 2015 20:06:44 +0100</pubDate>
       
-      <guid>/post/humans/</guid>
+      <guid>www.linuxuk.org/post/humans/</guid>
       <description>As a scholar of software engineering with a particular interest in the field of ubiquitous computing and artificial intelligence, the recent series by AMC, “Humans” really did peak my interest. Is it something based on sensationalism or alternatively something that could be considered grounded in reality? Well, I believe that it is a drama that reflects more on the latter than the former. I really like the concept so far and it raises questions that only academia have explored in detail before movie studios love; concepts such as artificial understanding, consciousness, love, and the projection of human traits upon non-human subjects (anthropomorphism).</description>
     </item>
     

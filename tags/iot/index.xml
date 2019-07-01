@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT on LinuxUK</title>
-    <link>/tags/iot/</link>
+    <link>www.linuxuk.org/tags/iot/</link>
     <description>Recent content in IoT on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 10 May 2017 09:29:04 +0100</lastBuildDate>
     
-	<atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why software updates matter, especially in the world of IoT</title>
-      <link>/post/updates-in-the-iot-world/</link>
+      <link>www.linuxuk.org/post/updates-in-the-iot-world/</link>
       <pubDate>Wed, 10 May 2017 09:29:04 +0100</pubDate>
       
-      <guid>/post/updates-in-the-iot-world/</guid>
+      <guid>www.linuxuk.org/post/updates-in-the-iot-world/</guid>
       <description>Why update? We all know what software updates are, we see them all the time on our phones, tablets, desktops and servers. They appear as pop-ups, in the message of the day (motd), and even have dedicated applications extolling their necessity, and all for good reason. Having out of date software often means, at best a degraded user experience, at worst a security hole exploitable by hackers. When you consider that analysts such as Gartner predict that the IoT will connect over 20 billion devices by 2020 the necessity for a clean and crisp update mechanism becomes paramount to any device.</description>
     </item>
     

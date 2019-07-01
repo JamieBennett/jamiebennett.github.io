@@ -3,471 +3,488 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/deprecating_software_is_hard/</loc>
+    <loc>www.linuxuk.org/tags/electric-cars/</loc>
+    <lastmod>2019-06-28T18:09:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/</loc>
+    <lastmod>2019-06-28T18:09:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/post/</loc>
+    <lastmod>2019-06-28T18:09:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/tags/renewables/</loc>
+    <lastmod>2019-06-28T18:09:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/tags/</loc>
+    <lastmod>2019-06-28T18:09:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/post/buying-an-electric-car/</loc>
+    <lastmod>2019-06-28T18:09:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/post/deprecating_software_is_hard/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>www.linuxuk.org/tags/development/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>www.linuxuk.org/tags/ros/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>www.linuxuk.org/tags/robotics/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/ros/</loc>
+    <loc>www.linuxuk.org/tags/software/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/robotics/</loc>
+    <loc>www.linuxuk.org/tags/ubuntu/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/software/</loc>
-    <lastmod>2018-10-17T10:37:08+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-10-17T10:37:08+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ubuntu/</loc>
-    <lastmod>2018-10-17T10:37:08+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/monitoring-plants-with-ubuntu/</loc>
+    <loc>www.linuxuk.org/post/monitoring-plants-with-ubuntu/</loc>
     <lastmod>2018-05-16T12:01:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/snaps/</loc>
-    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gardening/</loc>
-    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plants/</loc>
-    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/raspberrypi/</loc>
-    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/xiaomi/</loc>
+    <loc>www.linuxuk.org/tags/snaps/</loc>
     <lastmod>2018-05-16T12:01:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/snaps_on_raspbian/</loc>
+    <loc>www.linuxuk.org/tags/gardening/</loc>
+    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/tags/plants/</loc>
+    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/tags/raspberrypi/</loc>
+    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/tags/xiaomi/</loc>
+    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/post/snaps_on_raspbian/</loc>
     <lastmod>2018-04-13T15:47:22+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/raspbian/</loc>
+    <loc>www.linuxuk.org/tags/raspbian/</loc>
     <lastmod>2018-04-13T15:47:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/hci-to-the-max/</loc>
+    <loc>www.linuxuk.org/post/hci-to-the-max/</loc>
     <lastmod>2018-02-14T18:30:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2018-02-14T18:30:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/futurism/</loc>
+    <loc>www.linuxuk.org/tags/ai/</loc>
     <lastmod>2018-02-14T18:30:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hci/</loc>
+    <loc>www.linuxuk.org/tags/futurism/</loc>
     <lastmod>2018-02-14T18:30:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/spotify/</loc>
+    <loc>www.linuxuk.org/tags/hci/</loc>
+    <lastmod>2018-02-14T18:30:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/tags/spotify/</loc>
     <lastmod>2018-01-09T12:38:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/spotify-as-a-snap/</loc>
+    <loc>www.linuxuk.org/post/spotify-as-a-snap/</loc>
     <lastmod>2018-01-09T12:38:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/augmented-reality/</loc>
+    <loc>www.linuxuk.org/tags/augmented-reality/</loc>
     <lastmod>2017-08-17T15:41:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/healthcare/</loc>
+    <loc>www.linuxuk.org/tags/healthcare/</loc>
     <lastmod>2017-08-17T15:41:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/smarthealthcare-trends4/</loc>
+    <loc>www.linuxuk.org/post/smarthealthcare-trends4/</loc>
     <lastmod>2017-08-17T15:41:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/smarthealthcare-trends3/</loc>
+    <loc>www.linuxuk.org/post/smarthealthcare-trends3/</loc>
     <lastmod>2017-07-21T13:11:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/smarthealthcare-trends2/</loc>
+    <loc>www.linuxuk.org/post/smarthealthcare-trends2/</loc>
     <lastmod>2017-07-07T10:32:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/automation/</loc>
+    <loc>www.linuxuk.org/tags/automation/</loc>
     <lastmod>2017-07-04T09:36:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/smarthealthcare-trends1/</loc>
+    <loc>www.linuxuk.org/post/smarthealthcare-trends1/</loc>
     <lastmod>2017-07-04T09:36:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/iot/</loc>
+    <loc>www.linuxuk.org/tags/iot/</loc>
     <lastmod>2017-05-10T09:29:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/security/</loc>
+    <loc>www.linuxuk.org/tags/security/</loc>
     <lastmod>2017-05-10T09:29:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/ubuntu-core/</loc>
+    <loc>www.linuxuk.org/tags/ubuntu-core/</loc>
     <lastmod>2017-05-10T09:29:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/updates-in-the-iot-world/</loc>
+    <loc>www.linuxuk.org/post/updates-in-the-iot-world/</loc>
     <lastmod>2017-05-10T09:29:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ubuntu-core-16/</loc>
+    <loc>www.linuxuk.org/post/ubuntu-core-16/</loc>
     <lastmod>2016-11-09T19:38:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/fixing_git_on_macos_sierra/</loc>
+    <loc>www.linuxuk.org/post/fixing_git_on_macos_sierra/</loc>
     <lastmod>2016-09-13T12:55:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/git/</loc>
-    <lastmod>2016-09-13T12:55:14+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/macos/</loc>
+    <loc>www.linuxuk.org/tags/git/</loc>
     <lastmod>2016-09-13T12:55:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tip/</loc>
+    <loc>www.linuxuk.org/tags/macos/</loc>
     <lastmod>2016-09-13T12:55:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/cheddar_half_and_broadlands_10miler/</loc>
+    <loc>www.linuxuk.org/tags/tip/</loc>
+    <lastmod>2016-09-13T12:55:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/post/cheddar_half_and_broadlands_10miler/</loc>
     <lastmod>2016-07-01T20:44:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/running/</loc>
+    <loc>www.linuxuk.org/tags/running/</loc>
     <lastmod>2016-07-01T20:44:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/linux/</loc>
+    <loc>www.linuxuk.org/tags/linux/</loc>
     <lastmod>2016-07-01T20:32:12+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/snappy/</loc>
+    <loc>www.linuxuk.org/tags/snappy/</loc>
     <lastmod>2016-07-01T20:32:12+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/snap_try/</loc>
+    <loc>www.linuxuk.org/post/snap_try/</loc>
     <lastmod>2016-07-01T20:32:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cross-distro-snaps/</loc>
+    <loc>www.linuxuk.org/post/cross-distro-snaps/</loc>
     <lastmod>2016-06-16T18:41:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/contributing_to_snapd/</loc>
+    <loc>www.linuxuk.org/post/contributing_to_snapd/</loc>
     <lastmod>2016-06-01T09:40:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/snapd/</loc>
+    <loc>www.linuxuk.org/tags/snapd/</loc>
     <lastmod>2016-06-01T09:40:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/snapcraft/</loc>
+    <loc>www.linuxuk.org/tags/snapcraft/</loc>
     <lastmod>2016-05-18T09:40:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/snapping_electron_based_applications_simplenote/</loc>
+    <loc>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</loc>
     <lastmod>2016-05-18T09:40:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/pensford10k/</loc>
+    <loc>www.linuxuk.org/post/pensford10k/</loc>
     <lastmod>2016-04-24T21:13:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cheddar_gorge_10k/</loc>
+    <loc>www.linuxuk.org/post/cheddar_gorge_10k/</loc>
     <lastmod>2016-04-11T20:11:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/a-change-of-scenery/</loc>
+    <loc>www.linuxuk.org/post/a-change-of-scenery/</loc>
     <lastmod>2016-04-06T20:59:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/marathon/</loc>
+    <loc>www.linuxuk.org/tags/marathon/</loc>
     <lastmod>2016-02-21T17:58:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/running_in_nepal/</loc>
+    <loc>www.linuxuk.org/post/running_in_nepal/</loc>
     <lastmod>2016-02-21T17:58:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/parkrun/</loc>
+    <loc>www.linuxuk.org/tags/parkrun/</loc>
     <lastmod>2016-01-19T14:03:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/parkrun/</loc>
+    <loc>www.linuxuk.org/post/parkrun/</loc>
     <lastmod>2016-01-19T14:03:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/scansnap1300i_ubuntu/</loc>
+    <loc>www.linuxuk.org/post/scansnap1300i_ubuntu/</loc>
     <lastmod>2015-12-30T21:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/paper-free/</loc>
+    <loc>www.linuxuk.org/tags/paper-free/</loc>
     <lastmod>2015-12-30T21:35:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/running_ubuntu_snappy_on_osx_virtualbox/</loc>
+    <loc>www.linuxuk.org/post/running_ubuntu_snappy_on_osx_virtualbox/</loc>
     <lastmod>2015-11-09T14:09:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ubuntu-snappy-with-mac/</loc>
+    <loc>www.linuxuk.org/post/ubuntu-snappy-with-mac/</loc>
     <lastmod>2015-11-06T12:23:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rasberry-pi2/</loc>
+    <loc>www.linuxuk.org/tags/rasberry-pi2/</loc>
     <lastmod>2015-11-06T12:23:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/apple/</loc>
+    <loc>www.linuxuk.org/tags/apple/</loc>
     <lastmod>2015-08-19T19:41:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/life-with-apples-iwatch/</loc>
+    <loc>www.linuxuk.org/post/life-with-apples-iwatch/</loc>
     <lastmod>2015-08-19T19:41:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/iwatch/</loc>
+    <loc>www.linuxuk.org/tags/iwatch/</loc>
     <lastmod>2015-08-19T19:41:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/artificial-intelligence/</loc>
+    <loc>www.linuxuk.org/tags/artificial-intelligence/</loc>
     <lastmod>2015-08-10T20:06:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/humans/</loc>
+    <loc>www.linuxuk.org/post/humans/</loc>
     <lastmod>2015-08-10T20:06:44+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tv/</loc>
-    <lastmod>2015-08-10T20:06:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ubiquitous-computing/</loc>
+    <loc>www.linuxuk.org/tags/tv/</loc>
     <lastmod>2015-08-10T20:06:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/creating-bootable-usb-images-on-mac/</loc>
+    <loc>www.linuxuk.org/tags/ubiquitous-computing/</loc>
+    <lastmod>2015-08-10T20:06:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.linuxuk.org/post/creating-bootable-usb-images-on-mac/</loc>
     <lastmod>2015-03-27T09:23:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mac/</loc>
+    <loc>www.linuxuk.org/tags/mac/</loc>
     <lastmod>2015-03-27T09:23:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/android/</loc>
+    <loc>www.linuxuk.org/tags/android/</loc>
     <lastmod>2015-03-15T19:56:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/series/android-security/</loc>
+    <loc>www.linuxuk.org/series/android-security/</loc>
     <lastmod>2015-03-15T19:56:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>www.linuxuk.org/series/</loc>
     <lastmod>2015-03-15T19:56:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/trusted-execution-enviroment/</loc>
+    <loc>www.linuxuk.org/post/trusted-execution-enviroment/</loc>
     <lastmod>2015-03-15T19:56:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/career/</loc>
+    <loc>www.linuxuk.org/tags/career/</loc>
     <lastmod>2015-02-26T22:00:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/self-help/</loc>
+    <loc>www.linuxuk.org/tags/self-help/</loc>
     <lastmod>2015-02-26T22:00:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/what-are-you-passionate-about/</loc>
+    <loc>www.linuxuk.org/post/what-are-you-passionate-about/</loc>
     <lastmod>2015-02-26T22:00:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/trustzone-for-mobile-security/</loc>
+    <loc>www.linuxuk.org/post/trustzone-for-mobile-security/</loc>
     <lastmod>2015-02-22T17:13:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/more-blogging/</loc>
+    <loc>www.linuxuk.org/post/more-blogging/</loc>
     <lastmod>2015-02-18T10:18:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/writing/</loc>
+    <loc>www.linuxuk.org/tags/writing/</loc>
     <lastmod>2015-02-18T10:18:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>www.linuxuk.org/about/</loc>
     <lastmod>2015-02-09T15:58:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/personal/</loc>
+    <loc>www.linuxuk.org/tags/personal/</loc>
     <lastmod>2015-02-09T15:58:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/writings/</loc>
+    <loc>www.linuxuk.org/writings/</loc>
     <lastmod>2015-02-09T15:58:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/series-desc/</loc>
+    <loc>www.linuxuk.org/series-desc/</loc>
     <priority>0</priority>
   </url>
   

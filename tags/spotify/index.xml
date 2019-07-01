@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spotify on LinuxUK</title>
-    <link>/tags/spotify/</link>
+    <link>www.linuxuk.org/tags/spotify/</link>
     <description>Recent content in Spotify on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Tue, 09 Jan 2018 12:38:52 +0000</lastBuildDate>
     
-	<atom:link href="/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spotify as a Snap, putting the developer in control</title>
-      <link>/post/spotify-as-a-snap/</link>
+      <link>www.linuxuk.org/post/spotify-as-a-snap/</link>
       <pubDate>Tue, 09 Jan 2018 12:38:52 +0000</pubDate>
       
-      <guid>/post/spotify-as-a-snap/</guid>
+      <guid>www.linuxuk.org/post/spotify-as-a-snap/</guid>
       <description>Just before Christmas Canonical announced that the world&amp;rsquo;s most popular music streaming service, Spotify, is now available as a Snap, but what makes this significant I hear you ask? Well Spotify and many other developers are choosing a new way of delivering software to Linux users and Snaps are at the forefront.
 One of the important aspects of Snaps is not so much about the technology, but more about where the software comes from.</description>
     </item>

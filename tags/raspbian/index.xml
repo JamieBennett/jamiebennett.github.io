@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>raspbian on LinuxUK</title>
-    <link>/tags/raspbian/</link>
+    <link>www.linuxuk.org/tags/raspbian/</link>
     <description>Recent content in raspbian on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Fri, 13 Apr 2018 15:47:22 +0100</lastBuildDate>
     
-	<atom:link href="/tags/raspbian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/raspbian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Snaps on Raspbian</title>
-      <link>/post/snaps_on_raspbian/</link>
+      <link>www.linuxuk.org/post/snaps_on_raspbian/</link>
       <pubDate>Fri, 13 Apr 2018 15:47:22 +0100</pubDate>
       
-      <guid>/post/snaps_on_raspbian/</guid>
+      <guid>www.linuxuk.org/post/snaps_on_raspbian/</guid>
       <description>Who isn&amp;rsquo;t a fan of the Raspberry Pi? The little, cost-effective single-board computer that has so many uses, in fact at home I have 4 doing various things from monitoring temperature and humidity in my greenhouse to serving up a dashboard interface for my home automation solution, both projects which I will write more about in future posts. But what makes the Raspberry Pi even better, well Snaps of course.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ai on LinuxUK</title>
-    <link>/tags/ai/</link>
+    <link>www.linuxuk.org/tags/ai/</link>
     <description>Recent content in ai on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 14 Feb 2018 18:30:01 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Human Computer Interaction, to the max</title>
-      <link>/post/hci-to-the-max/</link>
+      <link>www.linuxuk.org/post/hci-to-the-max/</link>
       <pubDate>Wed, 14 Feb 2018 18:30:01 +0000</pubDate>
       
-      <guid>/post/hci-to-the-max/</guid>
+      <guid>www.linuxuk.org/post/hci-to-the-max/</guid>
       <description>Interfacing with computers is inevitable in today&amp;rsquo;s developed societies but what most people think of when asked about computer interaction is probably bashing the keyboard, one finger at a time, on a laptop or desktop or, for the more tech-savvy they may talk about phones and tablets. Less people talk about cars, TVs, airport ticketing machines, wearables, digital assistants like Alexa or Siri, even fridges, washing machines, and billboards. A small but increasingly vocal subset talk about a new generation of computing that will revolutionise the definition of computers and even humanity.</description>
     </item>
     

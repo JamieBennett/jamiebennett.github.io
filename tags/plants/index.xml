@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plants on LinuxUK</title>
-    <link>/tags/plants/</link>
+    <link>www.linuxuk.org/tags/plants/</link>
     <description>Recent content in plants on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 16 May 2018 12:01:43 +0100</lastBuildDate>
     
-	<atom:link href="/tags/plants/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/plants/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Monitoring a Greenhouse with Ubuntu</title>
-      <link>/post/monitoring-plants-with-ubuntu/</link>
+      <link>www.linuxuk.org/post/monitoring-plants-with-ubuntu/</link>
       <pubDate>Wed, 16 May 2018 12:01:43 +0100</pubDate>
       
-      <guid>/post/monitoring-plants-with-ubuntu/</guid>
+      <guid>www.linuxuk.org/post/monitoring-plants-with-ubuntu/</guid>
       <description>There are a wide range of solutions on the market today to help the avid gardener with their plants, some are low tech battery-less meters designed to give you a simple view of how your plant is doing, others are much more high-tech (and expensive). Two of the most important variables to monitor in a greenhouse are temperature and humidity, too hot and plants start to scorch and wilt, too cold and they can be damaged, and humidity is important for a whole host of plants you may find in a greenhouse.</description>
     </item>
     

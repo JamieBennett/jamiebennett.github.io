@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snappy on LinuxUK</title>
-    <link>/tags/snappy/</link>
+    <link>www.linuxuk.org/tags/snappy/</link>
     <description>Recent content in Snappy on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 20:32:12 +0100</lastBuildDate>
     
-	<atom:link href="/tags/snappy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/snappy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>snap try: The quick way to package snaps</title>
-      <link>/post/snap_try/</link>
+      <link>www.linuxuk.org/post/snap_try/</link>
       <pubDate>Fri, 01 Jul 2016 20:32:12 +0100</pubDate>
       
-      <guid>/post/snap_try/</guid>
+      <guid>www.linuxuk.org/post/snap_try/</guid>
       <description>This weeks snippet is all to do with improving the snap developer experience.
 Since the release of snapd 2.0.8 we have added one of the most useful tools for snap developers:
 snap try
@@ -26,38 +26,38 @@ What this does is effectively mounts any folder containing an unpackaged snap at
     
     <item>
       <title>Are snaps really cross distro?</title>
-      <link>/post/cross-distro-snaps/</link>
+      <link>www.linuxuk.org/post/cross-distro-snaps/</link>
       <pubDate>Thu, 16 Jun 2016 18:41:40 +0100</pubDate>
       
-      <guid>/post/cross-distro-snaps/</guid>
+      <guid>www.linuxuk.org/post/cross-distro-snaps/</guid>
       <description>Yesterday we announced the new home for everything snaps and Snapcraft, snapcraft.io, and at the same time made available the cross-distribution work that really does means snaps can run on virtually any Linux distribution. Today we have enabled support for Debian, Arch, Gentoo, Fedora, and of course Ubuntu and all its flavours but enabling more including OpenSUSE, CentOS, Elementary, Mint, OpenWrt and others is in the works.
 The announcements was met with a mostly positive response which, given that Linux packaging has been an issue for so many people and for so long, is hardly surprising.</description>
     </item>
     
     <item>
       <title>Contributing to the snapd project</title>
-      <link>/post/contributing_to_snapd/</link>
+      <link>www.linuxuk.org/post/contributing_to_snapd/</link>
       <pubDate>Wed, 01 Jun 2016 09:40:26 +0100</pubDate>
       
-      <guid>/post/contributing_to_snapd/</guid>
+      <guid>www.linuxuk.org/post/contributing_to_snapd/</guid>
       <description>There is a lot of buzz around snaps, the new packaging format created by Canonical to enable secure, transactional, and robust application updates, and rightly so. This new method of distributing applications is revolutionizing not only software on IoT devices, but on the desktop, server, and beyond. The software that actually runs the snap applications is called snapd. Hosted on GitHub, snapd uses the Go language and is actively developed by a core set of developers, but, like most projects at Canonical, we actively encourage as much community participation as possible.</description>
     </item>
     
     <item>
       <title>Snapping an Electron-based Application: Simplenote</title>
-      <link>/post/snapping_electron_based_applications_simplenote/</link>
+      <link>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</link>
       <pubDate>Wed, 18 May 2016 09:40:26 +0100</pubDate>
       
-      <guid>/post/snapping_electron_based_applications_simplenote/</guid>
+      <guid>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</guid>
       <description>Snapcraft is described as a “delightful packaging tool”, enabling a developer to package their app from a single tree by aggregating the pieces from multiple places if necessary. It supports multiple build technologies and produces a .snap package with all its dependencies for Ubuntu Core and now the Ubuntu Classic Desktop (using snapd). It is the future of packaging for Linux-based systems. I encourage the reader to read the documentation on GitHub to get a flavour of what Snapcraft is and to learn more about the key concepts, setting up your system to produce snaps, and a nice first snap walkthrough example.</description>
     </item>
     
     <item>
       <title>A Change of Scenery</title>
-      <link>/post/a-change-of-scenery/</link>
+      <link>www.linuxuk.org/post/a-change-of-scenery/</link>
       <pubDate>Wed, 06 Apr 2016 20:59:00 +0100</pubDate>
       
-      <guid>/post/a-change-of-scenery/</guid>
+      <guid>www.linuxuk.org/post/a-change-of-scenery/</guid>
       <description>A few weeks I joined Canonical and for the eagle-eyed you&amp;rsquo;d realise this is actually for the second time. Previously at Canonical I spent my days with the Mobile Team, realising the goal of a good Linux on ARM experience which eventually culminated in the foundation of Linaro. This time I am equally excited about another formative stage of technology, that of IoT and the possibilities of interoperable and extensible devices running a standard Linux operating system.</description>
     </item>
     

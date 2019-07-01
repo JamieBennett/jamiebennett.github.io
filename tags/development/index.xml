@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on LinuxUK</title>
-    <link>/tags/development/</link>
+    <link>www.linuxuk.org/tags/development/</link>
     <description>Recent content in Development on LinuxUK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jamie Bennett</copyright>
     <lastBuildDate>Wed, 17 Oct 2018 10:37:08 +0100</lastBuildDate>
     
-	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.linuxuk.org/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deprecating software is hard; why the move to ROS 2 is causing heated debate</title>
-      <link>/post/deprecating_software_is_hard/</link>
+      <link>www.linuxuk.org/post/deprecating_software_is_hard/</link>
       <pubDate>Wed, 17 Oct 2018 10:37:08 +0100</pubDate>
       
-      <guid>/post/deprecating_software_is_hard/</guid>
+      <guid>www.linuxuk.org/post/deprecating_software_is_hard/</guid>
       <description>Software never stays the same Inevitably, all software is destined to die. Whether that is through becoming end of life (EOL), obsolete, or unused, or through the code being rewritten and replaced, software is not static and nor should it be. Bug fixes, security updates, and new functionality ensure that code churn, or the number of lines being modified, keeps developers busy and projects healthy. But, what happens when software completely changes?</description>
     </item>
     
     <item>
       <title>Fixing Git on MacOS X Sierra</title>
-      <link>/post/fixing_git_on_macos_sierra/</link>
+      <link>www.linuxuk.org/post/fixing_git_on_macos_sierra/</link>
       <pubDate>Tue, 13 Sep 2016 12:55:14 +0100</pubDate>
       
-      <guid>/post/fixing_git_on_macos_sierra/</guid>
+      <guid>www.linuxuk.org/post/fixing_git_on_macos_sierra/</guid>
       <description>If, like me you have upgraded to the Mac OS X Sierra beta you may find that Git is broken from the command line. The error I was seeing was:
  xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  It turns out that the developer tools are borked on upgrade so need reinstalling. To do that you need to run:
  xcode-select --install  After a short download and installation everything should be back to normal.</description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>snap try: The quick way to package snaps</title>
-      <link>/post/snap_try/</link>
+      <link>www.linuxuk.org/post/snap_try/</link>
       <pubDate>Fri, 01 Jul 2016 20:32:12 +0100</pubDate>
       
-      <guid>/post/snap_try/</guid>
+      <guid>www.linuxuk.org/post/snap_try/</guid>
       <description>This weeks snippet is all to do with improving the snap developer experience.
 Since the release of snapd 2.0.8 we have added one of the most useful tools for snap developers:
 snap try
@@ -46,38 +46,38 @@ What this does is effectively mounts any folder containing an unpackaged snap at
     
     <item>
       <title>Are snaps really cross distro?</title>
-      <link>/post/cross-distro-snaps/</link>
+      <link>www.linuxuk.org/post/cross-distro-snaps/</link>
       <pubDate>Thu, 16 Jun 2016 18:41:40 +0100</pubDate>
       
-      <guid>/post/cross-distro-snaps/</guid>
+      <guid>www.linuxuk.org/post/cross-distro-snaps/</guid>
       <description>Yesterday we announced the new home for everything snaps and Snapcraft, snapcraft.io, and at the same time made available the cross-distribution work that really does means snaps can run on virtually any Linux distribution. Today we have enabled support for Debian, Arch, Gentoo, Fedora, and of course Ubuntu and all its flavours but enabling more including OpenSUSE, CentOS, Elementary, Mint, OpenWrt and others is in the works.
 The announcements was met with a mostly positive response which, given that Linux packaging has been an issue for so many people and for so long, is hardly surprising.</description>
     </item>
     
     <item>
       <title>Contributing to the snapd project</title>
-      <link>/post/contributing_to_snapd/</link>
+      <link>www.linuxuk.org/post/contributing_to_snapd/</link>
       <pubDate>Wed, 01 Jun 2016 09:40:26 +0100</pubDate>
       
-      <guid>/post/contributing_to_snapd/</guid>
+      <guid>www.linuxuk.org/post/contributing_to_snapd/</guid>
       <description>There is a lot of buzz around snaps, the new packaging format created by Canonical to enable secure, transactional, and robust application updates, and rightly so. This new method of distributing applications is revolutionizing not only software on IoT devices, but on the desktop, server, and beyond. The software that actually runs the snap applications is called snapd. Hosted on GitHub, snapd uses the Go language and is actively developed by a core set of developers, but, like most projects at Canonical, we actively encourage as much community participation as possible.</description>
     </item>
     
     <item>
       <title>Snapping an Electron-based Application: Simplenote</title>
-      <link>/post/snapping_electron_based_applications_simplenote/</link>
+      <link>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</link>
       <pubDate>Wed, 18 May 2016 09:40:26 +0100</pubDate>
       
-      <guid>/post/snapping_electron_based_applications_simplenote/</guid>
+      <guid>www.linuxuk.org/post/snapping_electron_based_applications_simplenote/</guid>
       <description>Snapcraft is described as a “delightful packaging tool”, enabling a developer to package their app from a single tree by aggregating the pieces from multiple places if necessary. It supports multiple build technologies and produces a .snap package with all its dependencies for Ubuntu Core and now the Ubuntu Classic Desktop (using snapd). It is the future of packaging for Linux-based systems. I encourage the reader to read the documentation on GitHub to get a flavour of what Snapcraft is and to learn more about the key concepts, setting up your system to produce snaps, and a nice first snap walkthrough example.</description>
     </item>
     
     <item>
       <title>Running Ubuntu Snappy Core Virtualised on Mac OSX</title>
-      <link>/post/running_ubuntu_snappy_on_osx_virtualbox/</link>
+      <link>www.linuxuk.org/post/running_ubuntu_snappy_on_osx_virtualbox/</link>
       <pubDate>Mon, 09 Nov 2015 14:09:32 +0000</pubDate>
       
-      <guid>/post/running_ubuntu_snappy_on_osx_virtualbox/</guid>
+      <guid>www.linuxuk.org/post/running_ubuntu_snappy_on_osx_virtualbox/</guid>
       <description>Although most of the documentation out there today shows you how to run Ubuntu Snappy Core on an Ubuntu desktop, it is also pretty simple to do this on Mac OSX. In short:
 Download the Ubuntu Snappy Core image from:
 http://releases.ubuntu.com/15.04/  You will need the amd64 version of Snappy.
@@ -88,10 +88,10 @@ qemu-img convert -f raw -O vmdk ubuntu-15.</description>
     
     <item>
       <title>Installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac</title>
-      <link>/post/ubuntu-snappy-with-mac/</link>
+      <link>www.linuxuk.org/post/ubuntu-snappy-with-mac/</link>
       <pubDate>Fri, 06 Nov 2015 12:23:30 +0000</pubDate>
       
-      <guid>/post/ubuntu-snappy-with-mac/</guid>
+      <guid>www.linuxuk.org/post/ubuntu-snappy-with-mac/</guid>
       <description>This is a short guide to installing Ubuntu Snappy Core on a Rasberry Pi 2 using a Mac. It is pretty straight-forward but there are a couple of areas where you can get caught out.
 First, download the Ubuntu Snappy image from:
  http://people.canonical.com/%7Eplatform/snappy/raspberrypi2/  As of writing the latest release was:
@@ -100,38 +100,38 @@ First, download the Ubuntu Snappy image from:
     
     <item>
       <title>Creating bootable USB images on the Mac</title>
-      <link>/post/creating-bootable-usb-images-on-mac/</link>
+      <link>www.linuxuk.org/post/creating-bootable-usb-images-on-mac/</link>
       <pubDate>Fri, 27 Mar 2015 09:23:34 +0000</pubDate>
       
-      <guid>/post/creating-bootable-usb-images-on-mac/</guid>
+      <guid>www.linuxuk.org/post/creating-bootable-usb-images-on-mac/</guid>
       <description>Creating a bootable image for installing a Linux OS is pretty straight-forward but when you are doing this on the Mac there is a specific way it needs to be done. I alway use USB drives for this purpose so what follows are the steps needed to create a bootable USB stick from a Linux .iso image.
 I presume you have already downloaded your favourate Linux distribution in .iso format, below I&amp;rsquo;m using Debian Jessie.</description>
     </item>
     
     <item>
       <title>Trusted Execution Environments in Android</title>
-      <link>/post/trusted-execution-enviroment/</link>
+      <link>www.linuxuk.org/post/trusted-execution-enviroment/</link>
       <pubDate>Sun, 15 Mar 2015 19:56:29 +0000</pubDate>
       
-      <guid>/post/trusted-execution-enviroment/</guid>
+      <guid>www.linuxuk.org/post/trusted-execution-enviroment/</guid>
       <description>Continuing on from my post about TrustZone it seems that there is a lot of interest in hardware-backed security for Android and what you can do with it. One of the most interesting things that a hardware-isolated area can do for devices, whether that be a dedicated co-processor or technology such as TrustZone, is to provide a trusted enviroment dedicated to protecting your most valuable assets and the operations that are performed on them.</description>
     </item>
     
     <item>
       <title>What are you passionate about?</title>
-      <link>/post/what-are-you-passionate-about/</link>
+      <link>www.linuxuk.org/post/what-are-you-passionate-about/</link>
       <pubDate>Thu, 26 Feb 2015 22:00:40 +0000</pubDate>
       
-      <guid>/post/what-are-you-passionate-about/</guid>
+      <guid>www.linuxuk.org/post/what-are-you-passionate-about/</guid>
       <description>I have recently been reading the book entitled Talk Like TED Carmine Gallo which promises to bestow the virtues of great public speaking upon all who read it. Early on in the book there is a rather salient point that got me thinking, a point that starts with a simple question, &amp;ldquo;What are you passionate about&amp;rdquo;. Now there are quite a few things I am passionate about but in the context of Software Engineering, my chosen career path, it is something that underpins all the great projects that over time I have really enjoyed working on.</description>
     </item>
     
     <item>
       <title>TrustZone For Android Mobile Security</title>
-      <link>/post/trustzone-for-mobile-security/</link>
+      <link>www.linuxuk.org/post/trustzone-for-mobile-security/</link>
       <pubDate>Sun, 22 Feb 2015 17:13:52 +0000</pubDate>
       
-      <guid>/post/trustzone-for-mobile-security/</guid>
+      <guid>www.linuxuk.org/post/trustzone-for-mobile-security/</guid>
       <description>Recently I was asked to provide a quick, high-level introduction to TrustZone and how it could potentially improve the security on Android platforms. Any response to this is tricky: TrustZone is just a mechanism built in to a platform that if unused can do very little for device security but when utilised to its fullest, can create a totally seperate environment dedicated to protecting your most important secrets. But first a bit of background.</description>
     </item>
     
