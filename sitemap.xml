@@ -55,6 +55,12 @@
   </url>
   
   <url>
+    <loc>/tags/robotics/</loc>
+    <lastmod>2018-10-17T10:37:08+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/software/</loc>
     <lastmod>2018-10-17T10:37:08+01:00</lastmod>
     <priority>0</priority>
@@ -67,14 +73,14 @@
   </url>
   
   <url>
-    <loc>/tags/robotics/</loc>
-    <lastmod>2018-10-17T10:37:08+01:00</lastmod>
-    <priority>0</priority>
+    <loc>/post/monitoring-plants-with-ubuntu/</loc>
+    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/monitoring-plants-with-ubuntu/</loc>
+    <loc>/tags/snaps/</loc>
     <lastmod>2018-05-16T12:01:43+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -91,12 +97,6 @@
   
   <url>
     <loc>/tags/raspberrypi/</loc>
-    <lastmod>2018-05-16T12:01:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/snaps/</loc>
     <lastmod>2018-05-16T12:01:43+01:00</lastmod>
     <priority>0</priority>
   </url>
